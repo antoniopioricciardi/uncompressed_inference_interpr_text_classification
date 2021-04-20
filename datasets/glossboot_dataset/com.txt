@@ -1,0 +1,2463 @@
+frequency modulation synthesis	See Wave Table Synthesis.
+pipe	A direct connection that carries the output of one process to the input of another without an intermediate temporary file
+forum	A commonly used term for a discussion group implemented by means of one or more web pages instead of a traditional Usenet news group.
+whm	WebHost Manager
+device driver	A software subsystem which facilitates communication between a computer system and a hardware device
+pat	File extension
+marshaling	Process of readying an object for transfer across an application domain, context, or process boundary.
+modular	Being made up of a number of individual pieces that can each be replaced without having to change the whole.
+enumeration_io	a predefined generic package exported by Ada.Text_IO, used to support input and output of text representing values of enumeration types.
+mpeg-2	MPEG-2 is used for digital video at low compression rate
+dde	Dynamic Data Exchange
+rrd	Removable Rigid Disk
+cut and paste buffer	See clipboard.
+uniform resource characteristic	Se URC
+call by value	An argument-passing mechanism in which the formal arguments refer to a copy of the actual arguments, and the subroutine cannot change the actual arguments by changing the formal arguments
+object	An instance of a class
+jre	Java Runtime Environment
+discussion thread	In an online forum such as a newsgroup, a series of messages or articles in which replies to a message are nested directly under it, instead of the messages being arranged in chronological or alphabetical order.
+wireless n	A local area wireless network that uses the 802.11n standard (or the draft version of it)
+declarative part	the section of a program unit or block that contains declarations.
+parameter profile	the number of parameters, the base type of each parameter at each position, and the base type of the result (in the case of a function)
+broadcasting spectrum	The range of radio waves over which wireless devices communicate.
+gsan	Combines multiple Google Search Appliances to increase document capacity and to enable single-node replication
+drvspace	See DriveSpace.
+static method	Method associated with a type rather than an instance of the type
+white space	Any single character or series of characters that represents horizontal and/or vertical space.
+protocol extension protocol	See PEP
+palmtop	A small hand-held, battery-operated computer.
+getusername	a method applied to a DatabaseMetaData object to discover the username
+import	The act of creating a new file and incorporating content from an external file into the repository as the file's content.
+mo	Magneto-optical
+multi-target method	a method which can be applied to any of a number of objects
+mode	an indication of data flow direction of parameters
+crm	Customer Relationship Management
+explicit code	Rather than calling a function, writing out the code to execute the function directly
+plug-in	Software or hardware used to modify or add to an existing program
+pdm	Process Debug Manager
+qb	Quick BASIC
+hop count	A measure of distance between two points on the Internet.
+bits per second	See BPS
+seamless computing	Term indicating that a user should be able to move through various hardware and software contexts effortlessly and intuitively.
+write	An inbuilt procedure that outputs data without adding an end-of-line marker, so that the next piece of output or input will be on the same line.
+precedence	The rules of conduct that, in the absence of other guidance, determine what should happen first
+ces	The Consumer Electronics Show, which takes place each January in Las Vegas, Nevada.
+architecture	The design and structure of specific components of a computer system and how they connect and interact with one another.
+cathode-ray tube	See CRT
+esp	See "Microsoft ESP".
+ppp	Point-to-Point Protocol
+gs	File extension
+autoincrement	To add one to something automatically, hence the name of the the ++ operator
+psu	Power Supply Unit.
+id3	A tag associated with MP3 files which holds information such as the track's artist name and track title
+hash	An unordered association of key/value pairs, stored such that you can easily use a string key to look up its associated data value
+rotfl	Roll on the floor laughing.
+cpan	The Comprehensive Perl Archive Network
+coast	Cache On A Stick
+thunderbird	The email program associated with the Firefox web browser
+dpi	Dots per inch
+dependency	a dependency between two package exists if one package references elements of the other
+molecular electronics*	Any system with atomically precise electronic devices of nanometer dimensions, especially if made of discrete molecular parts rather than the continuous materials found in today's semiconductor devices.
+specification	the part of an Ada program unit that specifies its interface to other (client) units -- the unit's declaration without the final semi-colon.
+ascii	"Askey"
+greedy	A subpattern whose quantifier wants to match as many things as possible.
+pss	Product Support Services
+pct	Private Communications Technology
+adaptation	a process of selection, generation or modification that produces one or more perceivable units in response to a requested uniform resource identifier in a given delivery context.
+sd	Secure Digital
+vfw	Video For Windows
+lan	A network that interconnects devices over a geographically small area, typically in one building or a part of a building
+impatience	The anger you feel when the computer is being lazy
+class hierarchy	aka Generalization-Specialization Class Hierarchy
+anisotropic filtering	A term used in computer graphics
+electronic document	A document which is in electronic form.
+ics	Internet Connection Sharing
+webcam	A video camera that attaches to your computer and allows you to upload images or video to the Web.
+slam	Specifications, Languages, Analysis, and Model checking project explores the relations among these areas of software development.
+disk allocation unit	See Cluster.
+msaa	Microsoft Active Accessibility
+python	Python is a general-purpose high-level programming language whose design philosophy emphasizes code readability.
+life data model	Life information model for life insurance.
+encoder	A program which encodes data, or converts it to another format
+suwin	Setup For Windows
+here docs in ruby	Here are different examples:
+hue-saturation-brightness/value	See HSB
+bridge	Bridge is a network related term
+gpmc	Group Policy Management Console
+hips	Host-based Intrusion Prevention System - i.e
+form	A term used with many modern programming languages and also with database programs
+windows messaging	Microsoft Exchange (see that entry)
+red book	See "Book".
+bus	An electronic pathway
+auto catalog markup language	Automotive Catalog Markup Language
+statement	The whole syntactical construction of assignment: purchases+=(mugs*orders);
+key	The string index to a hash, used to look up the value associated with that key.
+bps	Bits per second, as in a modem's transmission rate
+cluster	A group of search appliances that work together.
+lifetime	Duration of an object's existence from instantiation through garbage collection.
+blue book	See Book.
+dmo	Distributed Management Objects
+abort	a reserved word used in an abort statement to terminate execution of a task and other tasks dependent upon it.
+ime	Input Method Editor
+explicit conversion	a type conversion that results from explicit coding by the programmer.
+keymatch	Administrator-defined keywords that promote specific web pages on a site
+gb	Gigabit
+diz	File extension
+cpanel	A browser-based menu system for servers
+properties	The properties of an object are the data members that make up the object, that is, the attributes of the type of the object
+active	The only descriptions of this term that I have managed to find have been written in Microsoft's meaningless management/marketing language, which has virtually no information content
+recharging cradle	A base connected to a power outlet into which you can place a device that runs on rechargeable batteries in order to recharge those batteries.
+dap	Refer to Directory Access Protocol.
+cracker	Someone who breaks security on computer systems
+result transformer	A transformer that converts content from Adapter Result format into Simple Result format.
+granularity	The size of the pieces you're dealing with, mentally speaking.
+u-interface	adj
+otp	One-Time Password
+mpeg-4	A standard currently under development designed for videophones and multimedia applications
+extensible markup language query	A flexible query facilities to extract data from real and virtual documents on the Web, therefore finally providing the needed interaction between the web world and the database world
+queue	an ordered "line up" of tasks waiting to have entry calls accepted.
+modem	Modulator/demodulator
+adware	Any software which serves banner ads or pop-up ads to you while in use
+e-mail	Slang for electronic mail, this is the system that lets people send and receive messages with their computers.
+v.22	The standard for half-duplex communication at 1200 bps.
+pcx	File extension
+wireless g	A local area wireless network that uses the 802.11g standard
+class versus module	  in Ada, these two concepts are kept separate
+bo	Buffer Overrun
+comments	Author-entered descriptions in program code meant for human programmers to read, not JavaScript interpretation.
+lifo	Last In, First Out
+actionscript	The programming language for Adobe Macromedia Flash applications.
+https	Hypertext Transfer Protocol - Secure
+event	A notification that signals a special situation in time
+integer	A number without a fractional part.
+high color	16-bit colour (65,536 colours).
+is-a rule	a rule to help clarify a subclass-superclass relationship
+matching	See pattern matching.
+vesa	Video Electronics Standards Association
+monger	Short for Perl Monger, a purveyor of Perl.
+pki	A hierarchy of "certification authorities" to allow individuals and organizations to identify each other for the purpose (principally) of doing business electronically.
+cmos	Complementary Metal Oxide Silicon
+type constructor	syntax allowing complex types to be described in terms of simpler ones
+itc	Internet Transfer Control
+symbolic debugger	A program that lets you step through the execution of your program, stopping or printing things out here and there to see whether anything has gone wrong, and if so, what
+interlacing	Interlacing is method used to accommodate long waits on a busy network
+bps	Bits per second
+distro	Distribution
+op	Original poster
+driver	a software component allowing a software system to use databases stored on DBMSs by a particular vendor
+concatenation	The process of gluing one cat's nose to another cat's tail
+scanner	A device which scans a printed image and produces a bitmapped image file of it.
+bilinear filtering	A term used in computer graphics
+writeln	An inbuilt procedure that outputs data followed by an end-of-line marker such as carriage return/line feed, so that the next piece of output or input will be on the next line.
+modality	The type of communication channel used for interaction
+undernet	An IRC (Internet Relay Chat) network.
+ruby pseudo-variables	They are special variables that have the appearance of local variables but behave like constants
+hpfs	High Performance Filing System
+ternary association	an association between three different classes
+mac	A system of rules used to move data from one physical medium to another.
+script	A series of program statements that instruct the computer on how to accomplish a task.
+encarta	Microsoft's CD-ROM encyclopedia.
+records management	The discipline and organizational function of managing records to meet operational business needs, accountability requirements and community expectations.
+hacker	Someone who is brilliantly persistent in solving technical problems, whether these involve golfing, fighting orcs, or programming
+dsp	Delivery Service Partner
+line in jack	The I/O panel jack where you plug a traditional audio-producing device (stereo, VCR, and so on) into the PC for capturing sound.
+subwoofer	A speaker box designed for low-frequency sounds, which gives oomph to the bass in music or adds emphasis to the sounds in games.
+type library	A term used in object oriented programming
+clip-art	Cartoon-like drawings.
+router	A router functions like a traffic officer, directing the flow of data to targets
+cem-1	A NEMA grade of industrial laminate having a substrate of woven glass surfaces over a cellulose paper core and a resin binder of epoxy
+obj	File extension
+biometrics	A method of verifying an individual's identity based on measurement of the individual's physical feature(s) or repeatable actions where those features and/or actions are both unique to that individual and measurable.
+cap	CITATION Access Point
+skin	An optional add-on to a program which changes its visual appearance but not its functionality
+parked domain	A second domain that points to your primary domain
+network interface card	See NIC
+irc	IRC stands for Internet Relay Chat
+primitive operation	an operation of a type that is declared together with the type declaration, and is inherited by other types in the same class of types.
+shade	The term shade refers to a color which consists of the basic color (or hue) with black added to it
+rmo	Refer to SQL Server Replication Management Objects.
+emf	File extension
+gmax	File extension
+stream	A flow of data into or out of a process as a steady sequence of bytes or characters, without the appearance of being broken up into packets
+unicode	There are many languages in the world with many more characters than provided for in the ASCII set
+rts	Real Time Strategy
+monospaced font	See Non-proportional font.
+google apps	Hosted web applications that organizations can use for communication, productivity, and collaboration
+idea	International Data Encryption Algorithm.
+business process	An activity or set of activities that are part of a service either to a citizen or to another organisational unit within or outside the particular Public Administration.
+bitmap file	A bitmap file contains the data for a bitmap image in bit-format
+dtmf	Dual Tone Multi-Frequency
+cam	Computer Aided Manufacturing.
+eeprom	Electronically-Erasable Programmable Read-Only Memory.
+pfx	File extension
+cloud connect	A group of features that enable the search appliance to return search results from a Google Apps domain, Google Site Search, or Twitter, along with results from its own index.
+le	In the suffix after the model number of a video board, this means that the board is a special cut-down version supplied to computer manufacturers for fitting in their products
+scalar context	The situation in which an expression is expected by its surroundings (the code calling it) to return a single value rather than a list of values
+ber	Basic Encoding Rules
+wmp	See "Windows Media Player".
+delimiter	A character or string that sets bounds to an arbitrarily-sized textual object, not to be confused with a separator or terminator
+ohci	Open Host Controller Interface
+ttl	Time to Live: Often abbreviated as TTL, it specifies how long a particular record should be kept in memory before it should be deleted
+man	The Unix program that displays online documentation (manual pages) for you.
+self-replication*	The ability of an entity such as a living cell to make a copy of itself
+colon	: (see that entry).
+olap	Online analytical processing.
+source format	The original format of content retrieved from an external data source by a Wireless adapter
+qt	File extension
+platform independent content selection	See PICS
+debugging	The detection, location and correction of faults in a program or system.
+with clause	a context clause providing access to a library unit from within another program unit.
+compound statement	A sequence of simple statements.
+domain	There are various parts to a domain name and the last part tells you what kind of site it is
+drc	Design Rule Check.
+orange book	See Book.
+universal resource identifier	See URI
+sku	Store-Keeping Unit
+requisition	A formal request to purchase items.
+fork	To create a child process identical to the parent process at its moment of conception, at least until it gets ideas of its own
+down	Inoperative
+transformation and lighting	A term used in computer graphics, especially with regard to 3D
+mbps	megabits per second
+loop counter	A variable that changes through each iteration of the loop, in correlation with how many times the loop has been executed
+linked list	A programming technique
+spdif port	I/O panel connectors used for digital audio
+backbone	A central network connecting other networks together
+embed	Simply means to insert into a text file
+cdma2000	The system used in 3G mobile phone networks in the USA and Canada.
+warez	"Wears" (I think)
+ttl	TTL is an acronym for "Time To Live"
+packaging	The protective container or housing for an electronic component or die, with external terminals to provide electrical access to the components inside
+attribute	the name of a column of a table, indicating the meaning of the data in that column
+dmz	De-Militarized Zone
+mbsa	Microsoft Baseline Security Analyser
+integer division	Division of one integer by another to give the integer quotient (the whole number element of the result) and the remainder
+aggregate	an array or record value written as a collection of component values (within parentheses).
+xss	Cross Site Scripting
+wire transfers	Another form of electronic payment made by a financial institution on behalf of the customer.
+type casting	Converting data from one type to another
+trigger	An event that causes a handler to be run.
+finally block	Block of statements to be executed regardless of whether or not an exception is thrown
+minus sign	- (see that entry).
+system caret	See "Caret".
+controlling parameter	the parameter in a dispatching call (or function return type) that determines which version of the overloaded operation will be called.
+spf	Sender Policy Framework
+operand	An expression that yields a value that an operator operates on
+san	Storage Area Network
+mt9	File extension
+dos	Disk Operating System
+vorbis	See OGG.
+plc	Programmable Logic Controller
+library unit	In Ada, a library unit is a "top-level" separately compiled program unit
+capacity	is the highest possible transmission speed that can be carried on a channel; can be expressed as raw speed or net throughput.
+expression	Anything you can legally say in a spot where a value is required
+switch	An option you give on a command line to influence the way your program works, usually introduced with a minus sign
+xml web services	Units of application logic providing data and services to other applications
+printer	Where you get the computer’s printed output, also called hard copy.
+left delete key	The key with a large left pointing arrow, located above the RETURN key
+covariance	replacing a type by a subtype
+silverlight	Microsoft's attempt to rival to the Adobe Flash browser add-in animation format.
+script	A program consisting of a set of instructions to an application or utility program
+pio	Programmed Input Output
+many-to-many association	an association between two classes A and B, where each A can be associated with many B’s, and vice versa
+hyperterminal	A program supplied with Windows, used to emulate a VDU
+rle	Run-length encoding
+source code	A text file comprising code which can be compiled.
+value-based identity	Objects are distinguished based on their values
+quick launch bar	The set of icons usually displayed on the Taskbar to the immediate right of the Start button when Internet Explorer V4's "New Desktop" option is installed
+cpanel package	Pieces of software that are bundled together for archiving and installation
+hue	Hue is the feature that makes a particular additive color, that is, the primary color without any black or white, or the color in its purist form.
+ampersand	& (see that entry).
+c:\windows\temp	The folder used by most programs to store their temporary files
+dye-sublimation	A type of printer that transfers heated solid due from a ribbon to specially coated paper, producing continuous tones, like those in a photo produced from a negative.
+t3	A digital transmission link with a capacity of 45 Mbit/s, or 28 T1 lines.
+interface	The set of properties, methods, indexers, and events exposed by an object that allow other objects to access its data and functionality
+directdraw	One part of DirectX.
+is-a	A relationship between two objects in which one object is considered to be a more specific version of the other, generic object: "A camel is a mammal." Since the generic object really only exists in a Platonic sense, we usually add a little abstraction to the notion of objects and think of the relationship as being between a generic base class and a specific derived class
+bit string	A sequence of bits that is actually being thought of as a sequence of bits, for once.
+pim	Personal Information Management
+i/o	Input from, or output to, a file or device.
+asp	1
+active cell markup language	Active Cell Markup Language
+tagged type	a type whose values have a run-time type tag, which indicates the specific type from which the value originated
+proposer	A person or organisation responding to a call for proposal from the Commission
+gue	Great Underground Empire, the setting for almost all the games in the Zork series of adventure games.
+uart	"You art"
+exception	A fancy term for an error
+ipp	Internet Printing Protocol
+deprecated	No longer favoured, no longer approved of, obsolete, replaced, no longer in fashion, may be withdrawn shortly
+boolean expression	Any expression which can be evaluated as being True or False.
+nat	Network Address Translation
+parent unit	the library unit whose capabilities are extended when a public or private child unit is declared.
+excel	A spreadsheet program published by Microsoft
+cdsl	Acronym for Consumer Digital Subscriber Line
+page	a block of memory
+trk	File extension
+discovery	Process when legal or regulatory investigation of records occurs to support or refute pending legal or regulatory proceedings.
+gzip	A program which compresses files for disk space conservation, minimizing transfer times, and making the transfer of multiple files easier
+dovecot	Mail server software designed for optimal security
+scalability	The ability (or otherwise) of a product to perform with a large amount of data, a large number of users, in a large network, etc.
+mini 1394 port	This special version of the IEEE 1394 connector is designed specifically for digital video and for connecting digital cameras.
+set	Secure Electronic Transactions
+shebang	Irish for the whole McGillicuddy
+variadic	Said of a function that happily receives an indeterminate number of actual arguments.
+cache	A special memory subsystem in which frequently used data values are duplicated for quick access.
+assembly language	A programming language in which the instructions are closely related to the computer being programmed
+wia	Windows Image Acquisition
+gpf	General Protection Fault - see that entry.
+hierarchy	a ranking or ordering of abstractions, such as a class hierarchy or a module hierarchy.
+update rollup	Microsoft KnowledgeBase article 824684 includes the following definition of this term as used by Microsoft: "An update rollup is a tested, cumulative set of hotfixes, security updates, critical updates, and updates that are packaged together for easy deployment
+criminal identity theft	A specific type of ID theft that occurs when a criminal gives another person’s name or personal identification to a law enforcement officer while being arrested.
+twitter	Twitter is a microblogging service - the publishing of short messages via text, images or video
+meter	A unit of measure equaling about 3.3 feet.
+handwritten signature	The scripted name or legal mark of an individual handwritten by that individual and executed or adopted with the present intention to authenticate a writing in a permanent form
+wide-area network wan	A computer network that spans a relatively large geographical area
+disk space quota	A limit placed on the amount of disk space an account is allowed to use.
+service pack	A service pack is a means by which product updates are distributed
+composite collections	A set of collections from various Google Search Appliances which the primary search appliance in a unified environment can query
+tls	Transport Layer Security
+v.21	The standard for full-duplex communication at 300 baud.
+java 2 micro edition	J2ME is a Java runtime platform by Sun Microsystems for developing Java applications to run on embedded devices—cellular telephones, Personal Digital Assistants (PDAs).
+ppm	Pages per minute
+post	Power On Self Tests
+rapid application development	Rapid Application Development (RAD) refers to a set of software development methodologies designed to facilitate rapid development and delivery of software systems.
+jdk	See Java Developer's Kit.
+content manager	The visual interface for creating Wireless services
+sbfm:	Microsoft KnowledgeBase article title prefix for articles relating to Microsoft's Small Business Financial Manager, an optional add-on for the Excel spreadsheet program.
+dangling statement	A bare, single statement, without any braces, hanging off an if or while conditional
+rfc	Request for Comments
+mtu	Maximum Transfer Unit
+whitespace	A character that moves your cursor but doesn't otherwise put anything on your screen
+ilink	See FireWire.
+des	Data Encryption Standard
+user mode	The non-privileged mode in which application code runs
+sme	Small to medium size enterprise (i.e
+floating point	A method of storing numbers in "scientific notation", such that the precision of the number is independent of its magnitude (the decimal point "floats")
+exec	To throw away the current process's program and replace it with another without exiting the process or relinquishing any resources held (apart from the old memory image).
+portal	See Home Page
+statement	An instruction in a program written in a high-level language.
+snmp	Simple Network Management Protocol
+ctd	Crash To Desktop
+filter	A program designed to take a stream of input and transform it into a stream of output.
+jndi	Java Naming and Directory Interface
+tokenizing	Splitting up a program text into tokens
+namespace	A domain of names
+functional user experience	A set of one or more perceivable units that enables a user to complete the function intended by the author for a given resource via a given access mechanism.
+gamepad	A game controller that features a flat surface and many buttons.
+constant	A variable that is assigned a value that is never meant to change.
+digital certificate	In cryptography, a message that guarantees the authenticity of the data contained within it
+rot-13	A simple encryption system.
+mortal	A temporary value scheduled to die when the current statement finishes.
+utp cable	Unshielded Twisted Pair cable
+platform	The entire hardware and software context in which a program runs
+pass	The act of sending data or values into a function or applet.
+share	Sometimes used as a noun to mean "shared folder", in other words an area of disk space on a computer or to a device such as a printer connected to a computer, which is "shared" - in other words which can accessed by other users via a local area network
+pattern	A template used in pattern matching.
+all key relation	a relation whose key consists of all its attributes
+syntax	The grammatical rules of a programming language.
+esc key	The Escape key at the top-left corner of the keyboard
+spoiled record / document	A record/document that has no business value and should be disposed based on established retention, transfer, and disposition schedules.
+ga	General Availability
+node	Thing joined by links
+address	Reference to a memory location
+case sensitive	An indication that it matters whether you enter an item in lower case or upper case
+bibliography markup language	The Bibliography Markup Language encodes bibliographies similar to BibTex
+fromelf	The ARM ELF Reader and Image Converter.
+local variable	A variable declared in a program block (such as a procedure or function) and accessible only within that program block
+csr	Certificate Signing Request
+little-endian	From Swift: someone who eats eggs little end first
+mpeg-1	The original MPEG standard for storing and retrieving video and audio information, designed for CD-ROM technology
+btdt	Chat slang for "Been there, done that".
+pen scanner	A hand-held, pen-shaped scanner with which you can re-create drawings or text as image files.
+broadband	A way of transmitting large amounts of data, voice, and video that is greater than standard voice grade transmission
+tie	The bond between a magical variable and its implementation class
+vob	File extension
+task	A program loaded into memory and running
+xerox parc	See PARC.
+wan	"Wan"
+substring	A portion of a string, starting at a certain character position (offset) and proceeding for a certain number of characters.
+biopolymer markup language	BIOML allows the full specification of all experimental information known about molecular entities composed of biopolymers, for example, proteins and genes
+version	A particular issue or release of a hardware or software product
+tdd	Refer to Test-Driven Development.
+modifier key	A key on a keyboard that works in combination with other keys to do various tasks.
+rtfm	What you are told when someone thinks you should Read The Fine Manual.
+uvw mapping	In 3D graphics programs, the standard method of specifying which parts of a two dimensional bitmap texture file should be applied to which parts of a three dimensional mesh object.
+dropper	A program which when it is run installs another program
+unix	An Operating System developed in 1969.
+composite type	an Ada type that has components, such as a record or array.
+ternary	An operator taking three operands
+java vm	Java Virtual Machine
+structure	See data structure.
+truncating	Emptying a file of existing contents, either automatically when opening a file for writing or explicitly via the truncate function.
+if	Interactive Fiction
+system	see ‘_system’.
+upd:	Microsoft KnowledgeBase article title prefix for articles relating to updates (patches).
+automation	A word used by Microsoft with various meanings, including the use of macros and Visual BASIC For Applications coding in Microsoft Office programs such as Word and Excel
+public access location	See "Hot Spot".
+business process modeling language	The Business Process Modeling Language (BPML) is a meta-language for the modeling of business processes, just as XML is a meta-language for the modeling of business data.
+home page	The starting page of a Website
+cur	File extension
+voucher	Synonymous with a vendor invoice approval
+tokener	A module that breaks a program text into a sequence of tokens for later analysis by a parser.
+mce	Media Centre Edition (of Windows XP).
+hotjava	The browser developed by Sun Microsystems that runs Java applets
+mscam	Microsoft Camcorder, a program supplied with Microsoft Office 97 for recording operations on a computer
+quicktime	A video file format and associated program (published by Apple)
+gena	General Event Notification Architecture
+superficial equality	Two objects are superficially equal if they have the same state
+plug and play	Often abbreviated PnP
+soap	Simple Object Access Protocol
+assembly code	code written in assembly (machine) language.
+hexadecimal	The format of colours on the web
+lookbehind	An assertion that peeks at the string to the left of the current match location.
+discrete type	an integer type or an enumeration type.
+program unit	a program unit is either a package, a task unit, a protected unit, a protected entry, a generic unit, or a subprogram unit.
+v.22bis	The standard for full-duplex modems sending and receiving data across telephone lines at 1200 or 2400 bps.
+authorities markup language	The Authorities Markup Language (AuthoritiesML) is a format for the interchange of UNIMARC authority records between applications.
+board game markup language	BGML (Board game markup language) is an XML document type for go game (and ultimately all other board games) records/databases.
+file	A unit of data storage used by the operating system for organisation.
+boss level	A level in a computer game which is more difficult, often involving an enemy with superior powers
+palladium	See TCPA.
+roxio	A publisher of CD burning software
+collection	A term used in Microsoft's style of object oriented programming
+conversion	Process of changing records from one medium to another or from one format to another.
+hefc	Higher Education Funding Council
+overloading	Giving additional meanings to a symbol or construct
+t3	A T-carrier that can handle 44.736 Mbps or 672 voice channels.
+keyframe	A keyframe is a special kind of frame that contains info about changes in the properties of an object
+adsl	Asymmetric Digital Subscriber Line
+tint	The tint of a color refers to the result of adding white to a pure color hue
+mheg	Multimedia and Hypermedia Experts Group
+hubris	Excessive pride, the sort of thing Zeus zaps you for
+segment	A program section which can be compiled to occupy a contiguous address space
+iis	Internet Information Services
+jsp	JavaServer Pages
+java	Java is an object-oriented programming language released by Sun in 1992
+enterprise architecture	The model of organisation and operation for a Public Administration, as described in a set of interrelated views
+extreme programming	XP is founded on cycles of frequent testing, integration, and user review
+mipmap	A mipmap is not the same as a bitmap
+source code	Usually a high-level language program, but could be assembly code if you write it.
+representation	A level of medical data encoding: the process by which as much detail as possible is coded.
+application	A kind of software used for productivity or to create things (the software that does the work).
+task type	a composite type whose values are tasks.
+footprint	geometry of pads for soldering certain electronic component.
+discriminated record	a record type that is parameterized by use of a discriminant.
+protected content	See controlled-access content.
+defining a class	Class names begin w/ capital character.
+broadcast	To send a datagram to multiple destinations simultaneously.
+actual parameter	A data item passed to a (formal) parameter in a procedure or function
+crc	See Cyclic Redundancy Check.
+asmx	File extension
+great plains	A Microsoft product
+wats	Flat rate, or special rate pay-by-the-minute (measured) billing for a specified calling area
+rboc	Regional Bell Operating Company
+directx	A driver used by games, graphics, and audio programs in Windows.
+uuid	Universal Unique Identifier
+mbr	Master boot record.
+journalling	See Outlook.
+nn	Netscape Navigator.
+selection	an operator that takes a relation and returns a new relation on the same attributes, with only those rows satisfying a given Boolean expression (prepositional formula)
+css	See Cascading Style Sheets.
+msts	Microsoft Train Simulator.
+loop	A construct that performs something repeatedly, like a roller coaster.
+compile time	The time when Perl is trying to make sense of your code, as opposed to when it thinks it knows what your code means and is merely trying to do what it thinks your code says to do, which is run time.
+cad	Computer Aided Design.
+review	The act of evaluating a document prior to the approval process.
+rsa	The most commonly used form of public key encryption
+browser	A user agent that allows a user to perceive and interact with information on the Web.
+ja	File extension
+binary	Numerical representation in base-2; for example, 10001100
+algorithm	A well-defined procedure or sequence of steps for solving a problem
+hefce	Higher Education Funding Council for England
+cd	Carrier Detect
+supervariable	An object
+rvalue	A value that you might find on the right side of an assignment
+dde	links data from one application to another (i.e
+evaluate	The act of performing the specified calculation or comparison
+dfp	Digital Flat Panel, in other words an LCD screen.
+color stop	A special element that indicates a color to be added to a gradient.
+fw:	Forwarded
+canonical	Reduced to a standard form to facilitate comparison.
+fast find	See Find Fast.
+visibility	refers to the ability to reference an entity at a location in a program.
+feeding	The process by how you direct content to the Google Search Appliance instead of having the search appliance locate content
+gsl	File extension
+etch	The removal of selected portions of materials to define patterned layers on chips.
+loop control statement	Any statement within the body of a loop that can make a loop prematurely stop looping or skip an iteration
+stdout	See standard output.
+script	A text file that is a program intended to be executed directly rather than compiled to another form of file before execution
+dc power	Power that comes from the battery that powers a laptop.
+left shift	A bit shift that multiplies the number by some power of 2.
+inverse mux	An inverse multiplexer.
+run	The act of executing a computer program.
+oop	Object Oriented Programming.
+se	In the suffix after the model number of an ATI video board, this means that the board is a special cut-down version supplied to computer manufacturers for fitting in their products
+module	A miniprogram, essentially equivalent to a function.
+simm	Single In-line Memory Module
+gui	"goo - eee"
+sequence	Consecutive statements processed in order.
+machine language	This is the lowest level language
+xslt	Extensible Stylesheet Language Transformations
+hard reference	A scalarvalue containing the actual address of a referent, such that the referent's reference count accounts for it
+scam	a fraudulent business scheme
+sourceforge	A web site http://www.sourceforge.net which is designed to allow groups of programmers to collaborate on software projects
+nas	Network Attached Storage, or in other words disk servers.
+certification	The issuance of a notice that a user or site is trusted for the purpose of security and computer authentication
+non-additive join property	see Lossless Join Property.
+mod	The operator giving the remainder after integer division.
+alert	Pop-up window that displays a message to the user
+ergonomics	Adapting work or working conditions to suit the worker.
+abstract state machine language	AsmL is the Abstract State Machine Language
+module	Assembly subunit
+character type	a built-in type consisting of the 256 elements of the Latin-1 Set
+dsl	Digital Subscriber Line
+rds	Remote Data Service
+sbe	Stream Buffer Engine
+nested unit	an Ada program unit that is declared inside another program unit, and is therefore not a library unit.
+debugger	A program designed to help track down bugs in other programs
+melee	A term often used in RPG's (role-playing games)
+aim	America Online Instant Messenger
+tld	Top Level Domain (see that entry).
+up	Operative
+t & l	See Transformation And Lighting.
+bug	An error in a computer program
+nic	Network Interface Card (for connecting a PC to a local area network).
+modular type	an unsigned integer type whose values range from 0 to n and exhibit "modulo n" arithmetic.
+tnef	Transport Neutral Encapsulation Format
+sbsi	Step By Step Interactive
+user group	A Wireless object that represents a set of users that are grouped together based on common criteria such as interests, subscription level, or geographic location.
+recursion	See "Recursion"
+v.34	The standard for full-duplex modems sending and receiving data across phone lines at up to 28,800 bps
+system on a chip	A chip that is a self-contained system, including processing, memory and input-output functions.
+newline key	See Return Key.
+network information system	See NIS
+pmc	Project Management Committee
+sce	Service Creation Environment
+aggregation	a kind of association used to model whole-part relationships
+record	Evidence of something an organization did, a memorial of business activity, and information that a company intends on retaining to conduct ordinary business.
+token	A morpheme in a programming language, the smallest unit of text with semantic significance.
+ipmi	Intelligent Platform Management Interface
+ram	Random access memory; a computer component that allows you to store data.
+mpeg-2	An extension of the MPEG-1 standard designed for broadcast television, including HDTV
+chord query language	ChordQL is the query language for ChordML
+callback method	Method that returns the result of an asynchronous processing call
+bcc	Blind carbon copy
+certificate	A certificate is a statement guaranteeing the identity of a person or the security of a Web site
+service	Application providing functionality to other applications
+snippets	Small section of text summarizing a search result
+policy:	Microsoft KnowledgeBase article title prefix for articles containing guidelines for Microsoft Technical Support (MTS) engineers.
+certificate	An electronic means of the proof of identity, for example of an email address or a web site
+rtc	Real Time Clock.
+proxy	An entity that has the authority to act for another
+cer	Canonical Encoding Rules
+application	computer software program
+vgx	Variational Graphics Extended
+bit	Short for binary digit (0 or 1)
+killer app	Killer Application
+analog circuit	an electrical circuit that provides a continuous quantitative output as a response from its input.
+integer	A number with no fractional (decimal) part
+unicode technical committee	See UTC
+properties	The descriptive characteristics that are part of file type definitions and are automatically assigned to every file of that type
+member	A field, property, method, or event declared on a class or struct.
+porter	Someone who "carries" software from one platform to another
+internet control message protocol	See ICMP
+pstn	Public Switched Telephone Network
+slice	A selection of any number of elements from a list, array, or hash.
+cdma	Code Division Multiple Access, also called Spread Spectrum, a term for a form of digital spread spectrum cellular phone service that assigns a code to all speech bits, sends a scrambled transmission of the encoded speech over the air and reassembles the speech into its original format
+kilo	1024 (2 to the tenth power).
+gif	Acronym for Graphics Interchange Format
+autovivification	A Greco-Roman word meaning "to bring oneself to life"
+tca	Trusted Computing Alliance
+cover	a set of functional dependencies F covers another such set E, if E is a subset of the closure of F
+bit	An integer in the range from 0 to 1, inclusive
+logic error	A mistake made by the programmer when designing the code, which compiles and runs but produces an incorrect output.
+mutable type	A type whose instance data, fields and properties, can be changed after the instance is created
+banner advert	An advert on sites such as search engines
+serialization	Conversion of an object (instance) into a data stream of bytes
+private	a reserved word used in declaring a private type or private child unit, or at the start of the private part of a package, task or protected unit declaration.
+as	File extension
+forward slash	/ (see that entry).
+mmx	Multi-media Extensions
+cross-posting	Sending a message to more than one list at the same time
+db	see Database.
+tso	File extension
+function	Mathematically, a mapping of each of a set of input values to a particular output value
+scalable vector graphics	See SVG
+jdk	Java Development Kit
+array	An ordered sequence of values, stored such that you can easily access any of the values using an integer subscript that specifies the value's offset in the sequence.
+capture card	A video upgrade card that can capture incoming analog video signal and convert it to digital video.
+animated gif	A GIF graphic file, which consists of two or more images shown in a timed sequence to give the effect of motion.
+iso	International Standards Organization
+encapsulation	a technique that separates the external aspects of an object from its internal, implementation details.
+blowfish	An encryption algorithm.
+firewire	A type of computer connection that you can use to attach various devices to your PC; most often used to connection DV camcorders.
+export	To make symbols from a module available for import by other modules.
+memory card	The most recent form of permanent computer storage technology
+te	Terminal Equipment
+format	A specification of how many spaces and digits and things to put somewhere so that whatever you're printing comes out nice and pretty.
+technet	A little-known but highly valuable Microsoft product giving technical details of their products
+standard	Specifications about how a group of network devices communicate.
+date biasing	Enables the search appliance to weigh document dates more heavily when it evaluates the order in which search results appear, and to prefer documents with newer dates to documents with older dates.
+information retrieval	The science and practice of identification and efficient use of recorded data.
+nda	Non-disclosure agreement, for example an agreement that a beta-tester will not reveal any information about the item that they are testing.
+scsi	"skussy"
+anti-body markup language	Anti-Body Markup Language
+administration	Management of a business, institution, etc; the management of public affairs; government
+iirc	Often used in online discussions as a shorthand for "If I remember correctly...".
+compiler directive	A statement in a program that affects the translation process.
+fix:	Microsoft KnowledgeBase article title prefix for articles relating to problems which have (supposedly) been fixed in a later release of a program.
+double click	Clicking the left mouse button twice in rapid succession
+gsm	Global System for Mobile Communications
+ai	Artificial intelligence.
+surround sound	3D environmental audio, created by a set of speakers positioned around the listener.
+backup	The process of creating a copy of computer data on an external storage medium, such as a floppy disk, tape, or external hard drive
+shockwave	A program used to create and play animations on some web pages.
+bmk	File extension
+digital	The method of representing information as numbers with discrete (non-continuous) values, usually expressed as a sequence of binary digits (ones and zeros).
+ndis	Network Device Interface Specification
+daemon	A computer program that runs as a background process, rather than being visible to, and directly controlled by, the user.
+bup	File extension
+arq	Automatic Repeat Request
+ansi	American National Standards Institute
+oe	Microsoft Outlook Express (see Outlook Express).
+line in	A socket on a computer or a sound card, to which any analog sound source such as an amplifier or audio mixer can be connected
+itanium	A 64-bit processor manufactured by Intel
+exception	When an unplanned or unexpected event occurs, an associated exception object is thrown
+right	File and folder-level permissions that allow access to a Web site.
+wfp	Windows File Protection, a feature of Windows XP and some other modern versions of Windows, which is intended to prevent the corruption of vital system files
+bbl	Chat shorthand for "be back later".
+phase alternation line	See PAL
+international color consortium	See ICC
+umts	The system used in 3G mobile phone networks in Europe.
+analog	A way of sending voice, video, or data that is "analogous" to the original signal
+web site certificate	A web-site certificate states that a specific web site is secure and genuine
+bookmark	Just as a paper bookmark is used as a reminder of the page you are on in a book, electronic bookmarks are used to bring you back to a website or other site you may want to return to
+in-circuit test	electrical test of individual component or part of the circuit board instead of testing the whole circuit.
+precedence	refers to the rules determining the order in which operators are considered in evaluating an expression.
+derived type	an Ada type defined in terms of a parent type
+multiple inheritance	The features you got from your mother and father, mixed together unpredictably
+one-liner	An entire computer program crammed into one line of text.
+collector	1
+thread	Virtually the same as a task (see that entry).
+execute	To run a program or subroutine
+mru	Most Recently Used
+rpc	When one part of a program calls on another part to do some work, the action is called a procedure call
+cd/dvd recorder	A type of drive that you can attach to your computer in order to copy data from your PC to a recordable CD or DVD.
+winsxs	Windows Side By Side
+sfc	System File Checker
+dvi	Digital Visual Interface
+change interval	An estimate of the duration between changes to a URL
+ike	Internet Key Exchange
+iis	(Microsoft) Internet Information Services
+switch statement	A program technique that lets you evaluate an expression and then, based on the value of the expression, do a multiway branch to the appropriate piece of code for that value
+ode	Microsoft Office, Developers' Edition (probably).
+substitution	Changing parts of a string via the s/// operator
+www	World Wide Web
+fxp	File extension
+scm	Service Control Manager
+microperipheral	A device that works with a micro-controller or microprocessor
+network packet	A network packet is the fundamental unit of communication on the network
+wmv	File Extension
+space bar	In a word processing program, don't use multiple spaces to position text
+clec	Competitive Local Exchange Carrier
+prg	File extension
+environment variable	A mechanism by which some high-level agent such as a user can pass its preferences down to its future offspring (child processes, grandchild processes, great-grandchild processes, and so on)
+execption	An exceptional situation that prohibits the normal continuation of the program flow.
+plus sign	+ (see that entry).
+functional test	the electrical testing of an assembled electronic device with simulated function generated by the test hardware and software.
+list context	The situation in which an expression is expected by its surroundings (the code calling it) to return a list of values rather than a single value
+picture element	A pixel is the smallest area that can be displayed on a monitor
+isdn	Integrated Services Digital Network
+program	A complete set of program instructions written to perform a task.
+owner	The one user (apart from the superuser) who has absolute control over a file
+exit status	See status.
+vdef	In Windows, the file system driver for unformatted disk drives.
+artefact or artifice	Any visible corruption of a graphical image, for example of a JPG image saved with too low a quality setting, or the jagged edges of a line which is nearly but not quite horizontal or vertical.
+assignment operator	Either a regular assignment, or a compound operator composed of an ordinary assignment and some other operator, that changes the value of a variable in place, that is, relative to its old value
+pixel	One dot of light on the computer screen
+pumpking	A pumpkin holder, the person in charge of pumping the pump, or at least priming it
+ecc	Error Correcting Code
+bps	another indicator of modem speed
+off:	Microsoft KnowledgeBase article title prefix for articles relating to Microsoft Office.
+formal parameter	formal argument of a subprogram, entry or generic unit.
+dispose	Method for releasing resources acquired by an object
+loopback	A diagnostic test or test state in which the transmitted signal is returned to the sending device after passing through a communications link or network.
+com	Refer to Component Object Model.
+compressed files	Computer files that have been reduced in size by a compression program
+proof by contradiction	a method of proof where one assumes the opposite of the thing one is trying to prove, and deduces a contradiction
+elements	see HTML Elements
+certificate	Coded authorisation information that can be verified by a certification authority to grant system access
+fqdn	Fully Qualified Domain Name
+pppoe	Point-to-Point Protocol Over Ethernet.
+host	A company that uses and makes accessible the information and utilities on an intranet or web site
+scope of variable	The accessibility of the variable.
+backup and restore	The process of maintaining backup files and putting them back onto the source medium if necessary.
+gprs	General Packet Radio Service
+query log	See search log.
+member variable	Typed memory locations for storing values
+asn.1	Abstract Syntax Notation One
+hcl	Hardware Compatibility List
+ascii art	Artwork composed entirely of ASCII characters used as lines and shapes, not as characters with meanings
+subsystem	In general, a collection of modules that have a joint purpose or role in the overall system
+libra	Low-Cost Integrated Broadband Radio Access
+side-by-side execution	Concurrent execution of multiple versions of an assembly either in the same computer or process
+scalar variable	A variable prefixed with $ that holds a single value.
+cleartype	An optional feature in Windows XP which is claimed to make text more readable but which actually makes it appear very fuzzy and out of focus, making it much more difficult to read.
+fatal error	An uncaught exception, which causes termination of the process after printing a message on your standard error stream
+cdr	File extension
+wingdings	A symbol font (see that entry).
+cim	Common Information Model
+ado	ActiveX Data Objects
+universal resource name	See URN
+form	Any number of user-interactive features in a Web page, including text entry boxes, checkboxes, radio buttons, selection boxes, and any other buttons.
+virus	A program which hides inside another program that often copies itself to hide inside other programs as well.
+escd	Extended System Configuration Data
+ddns	DDNS is an abbreviation for Dynamic DNS.
+ohnosecond	Like the millisecond, the microsecond and the nanosecond, the ohnosecond is a measure of time
+ol:	Microsoft KnowledgeBase article title prefix for articles relating to Microsoft Outlook.
+real audio	A program used to play sound files
+target	the object to which a method is applied
+xt	As a suffix after the model number of an ATI video board, this indicates a board much more powerful than the normal board
+bus mastering	A system used by PCI expansion boards which enables them to perform processing at the same time as the main processor.
+general protection fault	One of the most common errors which occurs in Microsoft Windows
+big-endian	From Swift: someone who eats eggs big end first
+audit policy	Defines the types of events that will be recorded for the purpose of improving security.
+overlay	A program section designed to occupy a specified storage device—e.g
+mci	Media Control Interface
+windows 9x	Windows 95 and/or Windows 98 (the "x" meaning "any digit").
+square brackets	[ and ] (see that entry).
+mys	File extension
+gsm	Global System for Mobile communications (European standard)
+mft	Master File Table
+frames	An optional feature of web pages which divides a page into separate scrollable windows
+brightness	Brightness (or value) is achieved by adding white or black to the basic color hue
+macro cell	Similar to a standard cell but larger
+put	overloaded name of predefined procedures exported by Ada.Text_IO and others, used to display data (character or string) on the screen.
+vserver.vxd	Sometimes spuriously listed as having failed to load in Bootlog.txt
+period	Full stop
+extensible markup language base	A facility, similar to that of HTML BASE, for defining base URIs for parts of XML documents.
+byte	A piece of data worth eight bits in most places.
+aliasing	The pixels on a CRT are square and result in jagged edges in graphic images
+cast	In Film and TV "cast " is used for the actors and extras
+minimum conductor space	The smallest distance between any two adjacent conductors, such as traces, on a board.
+xl	Often used as a synonym for Excel, Microsoft's spreadsheet program
+alu	Average Line Utilization
+global	Something you can see from anywhere, usually used of variables and subroutines that are visible everywhere in your program
+xsub	An external subroutine defined in XS.
+w3c	 Schema
+cyberspace	A term coined by author William Gibson in his novel Neuromancer
+nag screen	An annoying message which is regularly displayed by a shareware program until you register it
+mlm	Multi-Level Marketing
+trs-80	An early home computer sold by the computer known as Tandy in Europe and Radio Shack in the USA and Canada, hence the initials.
+rsaci	See "RAT".
+act	Application Compatibility Toolkit, a component of Windows XP which may enable programs written for older versions of Windows to be run.
+virtual memory	The use of part of a hard disk drive to simulate RAM, using a swap file (also called a paging file).
+binary markup language	BML is a binary version of XML, it carries the same information, although using a binary encoding technique.
+anti-aliasing	See aliasing.
+editpad	See Notepad.
+pki	Public Key Infrastructure.
+dv	Digital video; used to describe camcorders that record video digitally.
+drivespace	Microsoft software which administers one type of compressed disks
+javasup	Sometimes spuriously listed as having failed to load in Bootlog.txt
+cpi	See Characters per Inch
+music 2.0	See MT9.
+dwimmer	DWIM is an acronym for "Do What I Mean", the principle that something should just do what you want it to do without an undue amount of fuss
+c++	An object-oriented programming language, the closest relative to JavaScript.
+streaming	A method of transmitting information, usually sound or video, over the Internet, so that the receiving program can start playing the information as soon as it starts to receive it, without having to wait for the entire file to be downloaded
+fraud	A scam intended to cheat victims out of the fair settlement of an agreement by misleading and misrepresenting the facts, method, or outcome, with no intent to fulfill the agreement.
+developer	Programmer.
+life cycle	The records life cycle is the life span of a record from its creation or receipt to its final disposition
+xsd	File extension
+on hook	See Hook.
+server	A computer in a network that provides access to other computers in the network to programs, web pages, data, or other files and services, such as printer access or communications access
+telco	A telco is a telephone company
+trustbridge	Directory-enabled middleware supporting the federation of identities across corporate boundaries.
+indefinite subtype	an unconstrained array type, a record type with a discriminant and no default values, or a classwide type.
+pda	Personal Digital Assistant
+bfn	Chat shorthand for "bye for now".
+code	The word returned by the ref function when you apply it to a reference to a subroutine
+invocant	The agent on whose behalf a method is invoked
+horde	A browser-based webmail program for use on servers
+he	Higher Education
+cω	C-Omega is an experimental programming language which extends C#
+sound	The following sound file types are used for compressed sound files through The Internet: WAV, AU AIFF, MIDI.
+streaming	Multimedia files are typically large
+w3c	World Wide Web Consortium
+emulator	Hardware or software engineered to make one type of computer or other component behave as if it were another type
+land extensible markup language	The LandXML schema facilitates the exchange of data create during the Land Planning, Civil Engineering and Land Survey process.
+video/vga port	The I/O port where you plug in your monitor.
+usenet	The world's largest public "bulletin board," where folks post and reply to messages from others
+driver	A software program or hardware device which controls or regulates a hardware device
+gse	File extension
+type	a description of data and method signatures for an object
+pass by value	Supply the value of a variable as an argument to a procedure
+xp	Acronym for Extreme Programming
+bandwidth	Literally, the frequency width of a transmission channel in Hertz, kiloHertz, megaHertz, etc
+source code	The actual text that comprises the program itself.
+smart	See "S.M.A.R.T.".
+side effects	Something extra that happens when you evaluate an expression
+byte	A set of Bits that represent a single character
+internet society	See ISOC
+extensible customer information language	Although name and address data is the key identifier of a customer, other data helps to uniquely identify a customer
+upper case	Capital letters.
+y2k	The computer millennium bug, caused by only using two digits for year numbers instead of four.
+drupal	A CMS (Content Management System).
+xa	See CD-ROM and CD-ROM XA.
+alpha test	In software development, an early stage of testing by in-house personnel to identify bugs in the program
+ebd	Emergency Boot Disk.
+error handler	A programming statement that changes program flow in case an error is encountered.
+elf image	An ELF executable image that can be loaded and run on a target system either immediately or after additional processing.
+role	one end of an association
+word processor	A computer program in which you generate, edit, store, transmit, or duplicate electronic text documents.
+bitmap	An image, held as a set of RGB (red, green and blue) brightness values for a rectangle of pixels
+true	A logical (Boolean) value, returned from a comparison.
+gnd	File extension
+identity	the manner in which individual objects are distinguished in an RDBMS
+question mark	? (see that entry).
+literal	A constant made available to a program by direct inclusion in the source code.
+icmp	Internet Control Message Protocol
+octal	A number in base 8
+compile-time	The period during which a program is being compiled, as distinct from run-time when a program is actually running
+path	The list of directories the system searches to find a program you want to execute
+yacc	Yet Another Compiler Compiler
+here document	So called because of a similar construct in shells that pretends that the lines following the command are a separate file to be fed to the command, up to some terminating string
+easter egg	A hidden feature of a program, written largely for the amusement of the programmer
+syntax	The precisely structured way in which program statements must be written in order to be compiled.
+extensible hypertext markup language	This is a real effort to clean up code creation by making the rules of coding very strict
+isam	Indexed Sequential Access Method
+at sign	@ (see that entry).
+cul	Chat shorthand for "see you later".
+object code	The compiled form of a program
+fmv	Full Motion Video, as used in graphical adventure games, etc.
+download	The process of transferring information from one computer to another
+symbol	The word has many different meanings in many different contexts
+emoticon	A symbol constructed from two or more characters, read sideways, used to convey an emotion or to indicate the sense in which a comment was made
+pm	File extension
+software	Instructions that tell the computer hardware what to do or how to act; the brains of the computer.
+sequential couleur avec memoire	See SECAM
+php	PHP Hypertext Processor
+trs2004	Trainz Railway Simulator 2004, a program published by Auran.
+use type clause	a context clause that makes the primitive operations of a type (and nothing else) visible to clients.
+qbe	Query By Example
+prj:	Microsoft KnowledgeBase article title prefix for articles relating to Microsoft Project, a project administration system.
+sx	See "DX".
+shs	File extension
+controlled document	any document for which distribution and status are to be kept current by the issuer to ensure that authorized holders or users have available the most up to date version.
+dcc	Direct Cable Connection
+migration	Act of moving records from one system to another, while maintaining the records' authenticity, integrity, and reliability.
+format specification	A string which controls how input or output shall be presented.
+rf	Radio Frequency
+bcl	Refer to Base Class Library.
+tapi	Telephony Application Programming Interface
+jpeg	Jpeg derives its name from the Joint Photographic Experts Group who created the standard
+bounce	An email reply informing a sender that there was a problem delivering an email.
+us-cert	See CERT.
+modulus	The result of the modulo (%) operator, which returns the remainder of a division operation
+dispatch	To send something to its correct destination
+associativity	Determines whether you do the left operator first or the right operator first when you have "A operator B operator C" and the two operators are of the same precedence
+asymmetric digital subscriber line	See ADSL
+chip	1
+acc:	Microsoft KnowledgeBase article title prefix for articles relating to the Microsoft Access database system.
+svg	Scalable Vector Graphics
+record	A set of related data values in a file or stream, often associated with a unique key field
+ras	Remote Access Service (or Services?)
+igp	Interior Gateway Protocol
+fifo	First In, First Out
+cern	the European Organization for Nuclear Research where the web was born
+gif	Graphic Interchange Format
+the mozilla organization	 Schema
+off hook	See Hook.
+term	Short for a "terminal", that is, a leaf node of a syntax tree
+dao	Data Access Object
+dom	Document Object Model
+directanimation	One part of DirectX, which provides a means for programs to create animated graphical images in two or three dimensions
+nailed line	A permanent connection between endpoints over which two parties exchange data
+vsu	See Multiband VSU.
+cathode	1
+fixed_io	a predefined generic package exported by Ada.Text_IO, used to support input and output of text representing values of user-defined fixed-point types.
+bsod	Blue Screen Of Death - see that entry.
+validation	The checking of data to see if it is sensible in the context being used
+web integration adapter	An adapter that retrieves and adapts Web content using WIDL files to map the source content to Wireless XML.
+focus	When a user clicks on a form element and it becomes "active" for interaction, it is said to "have the focus."
+identity theft	An umbrella term used for any type of identity fraud
+mb	Megabyte
+overriding	Hiding or invalidating some other definition of the same name
+nwredir	In Windows, the file system driver for network drives mapped by the Microsoft Client for NetWare Networks.
+wcs	Frequencies in the 2.3 GHz band designated for general fixed wireless use and auctioned earlier this year.
+ellipsis	..
+host	The main computer in a system of computers or terminals connected by communications links.
+shtm	File extension
+lower case	Small letters.
+lsp	Layered Service Provider
+lithography	From the root "litho" meaning "stone" and "graph" meaning "writing".  Lithography is the transfer of a pattern or image from one medium to another, as from a mask to a wafer
+otr	Old Time Radio
+block buffering	A method of making input and output efficient by passing one block at a time
+security update	Microsoft KnowledgeBase article 824684 includes the following definition of this term as used by Microsoft: "A security update is a broadly released fix for a product-specific, security-related vulnerability
+synchronization	In serial data transmission, a method of ensuring that the receiving end can recognize characters in the order in which the transmitting end sent them, and can know where one character ends and the next begins
+bit	Binary digit
+tsr	Terminate and Stay Resident
+full duplex	Simultaneous two-way communication path.
+xpointer	Candidate Recommendation 3 July 2000
+semaphore	A fancy kind of interlock that prevents multiple threads or processes from using up the same resources simultaneously.
+format check	A validation check to ensure that the characters conform to some defined pattern.
+cable	A means of accessing the Internet that runs through your cable TV coaxial connection.
+mspx	File extension
+vkd	Virtual Keyboard Device Driver.
+spx	Sequenced Packet Exchange
+dynamic polymorphism	run-time dispatching to one of several possible operations having the same name.
+wide area information services	See WAIS
+operator	A symbol (comprising one or more characters) representing an action to be performed on one or more operands to produce a value.
+intro	See Demo [3].
+a1s	All Ones
+cast	Conversion of a value from one type to another
+thread	Like a forked process, but without fork's inherent memory protection
+form factor	A management/marketing pseudo-technical term, meaning size and shape
+motion picture experts group	Another compression technique for video and audio
+multiplexing	An electronic or optical process that combines a large number of lower speed lines into common bit stream for longer distance/high speed transmission
+validation	The practice of evaluating data to see whether it meets some criteria.
+carat	A common mis-spelling of caret.
+automated test markup language	Automated Test Markup Language
+microsoft solutions framework	MSF is a formal approach to technology development projects derived from a set of concepts, disciplines, guidelines, models, practices, and principles promoted by Microsoft.
+magical increment	An increment operator that knows how to bump up alphabetics as well as numbers.
+hsupa	High-Speed Uplink Packet Access
+nntp	Network News Transfer Protocol
+al3	One EDI (Electronic Data Interchange) standard that ACORD develops, known as AL3, is focused on the communication between property/casualty organizations, their agents and other trading partners. 
+active server page	See ASP [1].
+universal relation assumption	the assumption that every attribute in the universal relation schema has a unique name
+web	Short for World Wide Web.
+session	The state a connection reaches when both parties can communicate with each other.
+serial port	An older kind of versatile computer port that can connect a variety of devices to the PC; it has been largely replaced with USB ports.
+linker	A binding tool that resolves symbol references to symbol definitions.
+vista	Refer to Windows Vista.
+field	Part of a record used to store a single data item of a particular type.
+listserv	An email mailing list handling program
+iteration	Repetition of a sequence of steps until a condition is satisfied or while a condition is satisfied.
+var	Companies that package solutions around products they sell.
+compiled html	See CHM.
+discussion server	A computer that stores discussion text and information about the location of the file being discussed.
+tivo	See PVR.
+owner	The company, institution, or person who owns and - usually - maintains a Website
+cartesian product	set of all ordered pairs (or triples etc) of elements from two (or three etc) sets
+function	A subroutine that returns a value.
+stage	In the world of theatre and music production the stage is the designtaed area where the production is executed
+x	A wild card, representing any digit or number
+b2c	Acronym for Business to Consumer—exchanging information between business and consumer entities.
+call by reference	An argument-passing mechanism in which the formal arguments refer directly to the actual arguments, and the subroutine can change the actual arguments by changing the formal arguments
+feature pack	Microsoft KnowledgeBase article 824684 includes the following definition of this term as used by Microsoft: "A feature pack is new product functionality that is first distributed outside the context of a product release and that is typically included in the next full product release."
+thumbnail	A small copy of an image (a photograph, etc) displayed for preview purposes.
+content type	Content type is a technical term (following RFC2045 and RFC2046) used for describing the content of a web document so that a user agent can handle the content properly
+chown	A UNIX command meaning "change ownership."
+f2p	Free To Play
+iterate	To repeatedly move through a program loop.
+mouse	A helpful device that lets you work with graphical objects that the computer displays on the monitor.
+laziness	The quality that makes you go to great effort to reduce overall energy expenditure
+tilde	~ (see that entry).
+open source	Open source software is software which is provided publicly in source code form
+etla	Extended Three Letter Acronym
+signal processing	Electronic functions that enhance the representations of physical or electrical phenomena
+dbm	Stands for "Data Base Management" routines, a set of routines that emulate an associative array using disk files
+dialler	A malicious program which uses your modem to make international phone calls, supposedly to provide access to pornographic web sites
+thunk	A small section of a program which converts parameters between 16 bits and 32 bits, thus allowing a 16-bit program to use a 32-bit subroutine or vice-versa.
+rendezvous	the Ada mechanism used to synchronize the interaction between two tasks.
+bizcodes initiative	BizCodes Initiative is focused on promoting the concept of a universal reference system for XML based eBusiness that transcends individual schemas and industry specific exchange formats to provide a true 'lingua franca' for global eBusiness interchanges.
+movie	When the film industry began images could "move" and the term moving pictures, shortened to movies, began to be used
+regular expression modifier	An option on a pattern or substitution, such as /i to render the pattern case insensitive
+mosaic	Mosaic was the first popular browser that supported images and was developed by Marc Andreessen at NCSA.
+user experience preferences	A set of preferences, specified by a user, that affect the user experience that results from adaptation for a given delivery context
+ans	Advanced Networking Services, an Intel software component.
+collection	A segment of a search index
+sr	Service Repository
+folder	Directory or subdirectory - an area of a hard disk, a floppy disk or an exchangeable disk, etc, containing a set of files.
+braces	Curly brackets, { and }.
+dip	dual in-line package with two rows of leads from the base in standard spacing between the leads and row
+bgp	Border Gateway Protocol
+mru	Maximum Receive Unit
+backbone	The part of the communications network intended to and designed to carry the bulk of traffic
+virtual reality modeling language	See VRML
+operator	A gizmo that transforms some number of input values to some number of output values, often built into a language with a special syntax or symbol
+email	Electronic Mail messages sent from one person to another via the internet.
+decrement	To subtract a value from a variable, as in "decrement $x" (meaning to remove 1 from its value) or "decrement $x by 3".
+entry body	a program unit nested in the body of a protected unit, which implements the operation promised by the corresponding entry declaration.
+joint photographic experts group	The image file format best suited to photographs, due to its ability to handle colour transitions well and compress complicated photos into a smaller size
+http gateway	An HTTP server which acts as an intermediary for some other HTTP server
+page	Basic structural element of a Website
+bipolar	A type of transistor noted for its speed where a flow of both conduction electrons and holes determine the device characteristics.
+continuation	The treatment of more than one physical line as a single logical line
+related queries	Formerly called "synonyms." Administrators for the search appliances can use related queries to associate alternative words or phrases with specified search terms
+asn.1 markup language	XML encoding of Abstract Syntax Notation One (ASN.1)
+results page	A page that appears after a search concludes
+enterprise manager daemon	The Enterprise Manager Daemon handles the different components metrics and displays them in a component specific HTML page
+ps/2 port	A type of connection dedicated to the kind of keyboard and mouse that feature this connector.
+beta test	In software development, a stage of testing where the program is tried out with a selected trial audience to find and correct bugs, usually people of similar backgrounds to those expected to use the software
+critical update	Microsoft KnowledgeBase article 824684 includes the following definition of this term as used by Microsoft: "A critical update is a broadly released fix for a specific problem that addresses a critical, non-security-related bug."
+extreme ultraviolet technology	A technology for extending ultraviolet lithography by manufacturing a lens with concave and convex mirrors
+octet	Eight data bits.
+american national standards institute	See ANSI
+postmaster	The person responsible for taking care of email services, answering questions and complaints at a particular site
+adaptec	A publisher of CD burning software
+microsoft office specialist	Office Specialist is a certification recognized by the industry for professional developers who demonstrate advanced skills with Microsoft desktop software, i.e
+vertical bar	| (see that entry).
+mtrr	Memory Type Range Register
+gpg	GNU Privacy Guard
+qualified expression	an expression preceded by a subtype name,   as in Color'Silver or Metal'Silver, used to eliminate ambiguity or aid readability.
+ascii character set	first 128 of the 256 in the Latin-1 set.
+variable	Typed memory storage location
+asterisk	* (see that entry).
+rts/cts	Ready To Send/Clear To Send
+chump	File extension
+hel	Hardware Emulation Layer
+q+e	See QBE.
+abstraction	reasoning in which lower-level details are ignored while one focuses on selected higher-level concerns.
+hid	Human Interface Device
+webmail	Any application which allows you to access your email through a web browser
+content management system	A software system that stores and manages documents and provides document source control services such as securing controlled-access documents and archiving
+escrow scam	A scam that occurs when a thief/scammer convinces the victim to use a phony third-party escrow service to exchange money and merchandise
+dnsadmin	A program that manages DNS services and clustering.
+kin	File extension
+ipr	The conditions under which the information created by one party may be appreciated by another party.
+stringification	The process of producing a string representation of an abstract object.
+masm:	Microsoft KnowledgeBase article title prefix for articles relating to the Microsoft's Macro Assembler.
+encapsulation	A term used in object oriented programming
+im	File extension
+service provider interface	See SPI.
+platform sdk	Platform Software Development Kit
+mail exchanger	MX is a DNS record type which indicates a domain’s mailserver address(es)
+dsound.vxd	Sometimes spuriously listed as having failed to load in Bootlog.txt
+avi	Audio Video Interleaved
+circumfix operator	An operator that surrounds its operand, like the angle operator, or parentheses, or a hug.
+fs:	Microsoft KnowledgeBase article title prefix for articles relating to the Microsoft Flight Simulator program.
+dmz	De-Militarised Zone
+line buffering	Used by a standard I/O output stream that flushes its buffer after every newline
+autoload	To load on demand
+aiff	Audio Interchange File Format
+metacharacter	A character that is not supposed to be treated normally
+construct	As a noun, a piece of syntax made up of smaller pieces
+lvalue	Term used by language lawyers for a storage location you can assign a new value to, such as a variable or an element of an array
+quotas	Limits to the amount of disk space a user is allowed to take up.
+paper output tray	The location on a computer printer where the printer paper comes out and is stacked.
+pvr	Personal Video Recorder
+rom	Read-only memory; Permanent memory that can’t be altered by the microprocessor.
+sfp	System File Protection
+snap	SubNetwork Access Protocol
+ipf	Invalid Page Fault
+pub:	Microsoft KnowledgeBase article title prefix for articles relating to Microsoft Publisher, which I think is a desktop publisher program (although how it differs from Word I do not know).
+ascii	American Standard Code for Information Interchange
+logging off	The opposite of logging on, where the computer service is informed that you want to terminate the connection
+scalar literal	A number or quoted string--an actual value in the text of your program, as opposed to a variable.
+initialize	To assign a starting value to a variable
+pnd	Present Next Digit
+lhsp	A folder in Windows ME, probably associated with a text-to-speech facility
+dlc	Data Link Control
+substrate	The body or base layer of an integrated circuit, onto which other layers are deposited to form the circuit
+file type	Extension
+csv file	A text file with one record per line and each field separated from the next by a comma
+overclocking	Running a computer component such as a processor or a video board at a faster speed than its designers intended, in an attempt to make it perform more quickly
+source code	The original, human readable form of a program, written in the programming language.
+inheritance	What you get from your ancestors, genetically or otherwise
+binary	Binary means the use of only two values, zero and one, in encoding data
+nanotechnology*	The ability to see, measure and make objects that are within the same tiny size scale as atoms and molecules
+rsc	A JISC Regional Support Centre - see http://www.jisc.ac.uk/whatwedo/services/as_rsc/rsc_home/rscs_contact.aspx
+musical instrument digital interface	See MIDI
+indexing	Pertaining to record keeping, the process of establishing and applying terms or codes to records, to be used to retrieve them and to search for and analyze information in records across classifications or categories.
+eap	Extensible Authentication Protocol
+non-volatile ram	Also commonly NVRAM
+home highway	BT's trade name for their domestic ISDN service.
+formal public identifier	See FPI
+ieee 1394	See FireWire.
+bareword	A word sufficiently ambiguous to be deemed illegal under use strict 'subs'
+structured english	The use of the English language with the control structures of structured programming in order to describe an algorithm
+system board	The main printed circuit board of a computer
+wireless application forum	See WAF
+cost management	See call filters.
+hexadecimal	A number in base 16, "hex" for short
+internic	InterNIC (now known as Network Solutions) currently holds an exclusive contract with the U.S
+algorithm	A set of steps for solving a problem.
+output	Anything that the computer produces.
+protocol	A set of rules that defines how computers transmit information to each other, allowing different types of computer hardware and software to communicate with each other
+public domain	Something not owned by anybody
+tla	Three Letter Acronym
+adf	Automatic document feeder
+associative array	See hash
+text	A string or file containing primarily printable characters.
+transparency	Images in the computer environment are always square or rectangular
+chord markup language	ChordML represents music synoptically
+true	Any scalar value that doesn't evaluate to 0 or "".
+rtm	Released To Manufacture
+wmi	Windows Management Infrastructure/Windows Management Instrumentation (Microsoft are inconsistent regarding the name, even within the same window as displayed in WMIMGMT.MSIC)
+txt	File extension
+simple network management protocol	See SNMP
+alpha channel	A term associated with graphics
+interpreter	A program which runs a program written in a high level language
+gif	"giff"
+anim	File extension
+platform preview	A beta version of a program, i.e
+angstrom	One ten-billionth of a meter
+pascal	Another programming language, somewhat similar to C.
+gps	Global Positioning System
+pl	File extension
+local	Not meaning the same thing everywhere
+nanoscale*	The size range of objects studied by nanotechnologists.
+ddk	Device Driver Kit.
+ajax	asynchronous JavaScript and XML
+anti-aliasing	Attempting to remove the jagged edges of nearly horizontal or vertical edges displayed on a monitor, usually by means of fading individual pixels.
+ontology	A description (like a formal specification of a program) of the concepts and relationships that can exist for an agent or a community of agents
+ocr	Optical character recognition; a program that allows the computer to read text from a scanned item and convert it to text that you can edit.
+wd:	Microsoft KnowledgeBase article title prefix for articles relating to Microsoft Word.
+accept statement	a compound statement in a task body, which corresponds to an entry in the task declaration.
+sans serif font	Serifs are the little marks at each of each stroke of each character that are present in some fonts
+crl	Certificate Revocation List
+microsoft...	In most cases, see under individual product names
+dos	Denial of Service
+false	The value returned from a comparison operation, if the comparison is invalid.
+jnlp	File extension
+system unit	The main box of the PC; also called the console
+html page	See Page.
+dvi-a	A DVI socket with analogue output only.
+moderator	In some Internet newsgroups and mailing lists, a person through whom all messages are filtered before they are distributed to the members of the newsgroup or list
+mcse	Microsoft Certified Systems Engineer
+specialization	The process where from a general concept, more specific concepts are derived
+del and delete keys	See Left Delete Key and Right Delete Key.
+line	In Unix, a sequence of zero or more non-newline characters terminated with a newline character
+fractal image format	See FIF
+limited	a reserved word, used in declaring a type to have limited operations, in that it cannot be used in assignments or checks for equality or inequality.
+dsa	Digital Signature Algorithm
+cd ripper	See DAC.
+chipset	A group of chips that work together to perform a specific task or function
+cast	In the C programming language, a function which converts data from one variable type to another, in the same way as the STR$ and VAL functions do in BASIC
+swt	Standard Widget Toolkit
+master service	The core implementation of a service
+entry call statement	a simple statement that issues a call to an entry of a task -- similar in form to a procedure call.
+cbga	Ceramic Ball Grid Array.
+ca	Certificate Authority
+relationship	See "Join".
+win9x	Windows 95 or Windows 98
+stl	Standard Template Library
+frame	A segment of a digital signal that has a repetitive characteristic in that corresponding elements of successive frames represent the same things
+integer	A type predefined in current Pascal to occupy four bytes and to be signed (can be positive or negative).
+parse tree	See syntax tree.
+s.m.a.r.t.	Self-Monitoring, Analysis, and Reporting Technology
+aac	File extension
+dcmi	The Dublin Core Metadata Initiative
+chip's challenge	A very highly recommended game, included in Microsoft's Windows Entertainment Pack
+subprogram	an Ada program unit that specifies a sequence of actions
+cyberspace	Term originated by author William Gibson in his novel Neuromancer the word Cyberspace is currently used to describe the whole range of information resources available through computer networks.
+overloading	see Method Overloading.
+goto statement	a simple statement that transfers control to a labeled location.
+gart	Graphics Address Remapping Table
+assembler	A program that translates a program written in assembly language into machine code.
+link	A reference from one document to another (external link), or from one location in the same document to another (internal link), that can be followed efficiently using a computer
+rtfm	An invitation for a user to kindly consult the printed documentation which accompanied the product: Read the flaming manual!
+file handling services	services provided by predefined generic packages named Ada.Direct_IO, Ada.Sequential_IO, Ada.Streams, and Ada.Streams.Stream_IO.
+odl	Object Description Language.
+implicit conversion	a type conversion that takes place automatically, without explicit coding by the programmer.
+floating-point number	Number having a decimal place or exponent.
+semantics	The meanings assigned to symbols and sets of symbols in a language.
+pve	Player versus Environment
+nanometer	A metric unit of linear measure which equals one billionth of a meter
+stack	A device you can put things on the top of, and later take them back off in the opposite order in which you put them on
+net messaging	A Microsoft product which appears to be very similar to NetMeeting (see that entry).
+web page	A collection of information, consisting of one or more resources, intended to be rendered simultaneously, and identified by a single Uniform Resource Identifier.
+hash sign	# (see that entry).
+ndis2sup.vxd	Sometimes spuriously listed as having failed to load in Bootlog.txt
+xpath	W3C Recommendation 16 November 1999
+rv	A recreational vehicle, not to be confused with vehicular recreation
+symbol	Generally, any token or metasymbol
+af	Anisotropic Filtering
+hotu	Home Of The Underdogs, a software repository web site for old abandoned games
+color depth	or bit depth, refers to the number of bits used to describe the color of a pixel
+entry-level	The least expensive model in a manufacturer's range of models.
+decomposition	The act of dividing up one or more authored units during creation of a set of perceivable units appropriate for a particular delivery context
+command	In shell programming, the syntactic combination of a program name and its arguments
+wrl	File extension
+intensity	Intensity is also known as chroma or saturation
+dot com	An informal name for the type of company created specifically as an e-commerce operation
+edu	The Internet top-level domain for educational institutions (universities, schools, etc).
+service	Something you do for someone else to make them happy, like giving them the time of day (or of their life)
+bit shift	The movement of bits left or right in a computer word, which has the effect of multiplying or dividing by a power of 2.
+separator	A character or string that keeps two surrounding strings from being confused with each other
+du	Distribution Unit
+pumpkin	A notional "baton" handed around the Perl community indicating who is the lead integrator in some arena of development.
+impact printer	A type of computer printer that uses an ink ribbon and some device to physically bang the ribbon on the paper.
+function	A collection of JavaScript statements that perform a particular operation
+osk	On-Screen Keyboard
+increment	To increase the value of a variable, usually by 1.
+library	Generally, a collection of procedures
+active perceivable unit	A perceivable unit that is currently being rendered by the user agent and with which interaction may be possible.
+proportional font	A font in which each character has a different width, for example a small "i" is much narrower than a capital "M"
+iframe	Inline frame
+ripper	See "DAC".
+xlk	File extension
+ieee	Acronym for Institute of Electrical and Electronics Engineers
+mimo	Multiple input, multiple output
+double quote	" (see that entry).
+discussion group	See News.
+user locale	Setting that determines formats and sort orders for date, time, currency, and so on
+boolean	A value that is either true or false.
+distribution	A standard, bundled release of a system of software
+mesh	In computer graphics, an internal representation of the shape of a 3D object, usually in the form of numerous polygons
+pots	Plain Old Telephone System
+vpowerd	Sometimes spuriously listed as having failed to load in Bootlog.txt
+isp	An Internet Service Provider is a company that provides access to the Internet
+setgid	Same as setuid, only having to do with giving away group privileges.
+hci	Human Computer Interaction
+ad markup language	Markup for Advertisements
+hive	Any of the top-level branches of the Registry.
+syntax	From Greek, "with-arrangement"
+errno	The error number returned by a syscall when it fails
+theme	I think a "theme" is a collection of Windows appearance settings (the colours and sizes of the objects which appear in the vast majority of Windows programs)
+bioinformatic sequence markup language	TheBioinformatic Sequence Markup Language (BSML) encodes biological sequence information and includes graphical representations of biologically meaningful objects such as sequences, genes, electrophoresis gels, and multiple alignments..
+sdvxd	A temporary disk cache mechanism created while Windows starts up and destroyed when this process completes, leading a spurious error message in the Bootlog.txt file
+eula	End User Licence Agreement
+wave table synthesis	A means used by many sound boards to create musical notes when playing MIDI files
+variable	A "label" that refers to some value
+bayonet connector	See BNC
+whs	Windows Home Server.
+superscript	One or more characters written slightly above the level of the other characters, for example to represent exponentiation (indexes, powers) in mathematical expressions such as x2 and X3.
+respective terminology	Set of frequently used standard terms for a certain application area.
+afk	Chat abbreviation for "away from keyboard".
+laptop	A portable computer.
+reliability	The ability of a system or component to perform its required functions under stated conditions for a specified period of time.
+filter	A set of rules that define what packets may pass through a network
+i-nlsp	Integrated Net Layer Security Protocol
+garbage collection	The retrieving of areas of storage no longer in use, and making them available for re-use
+corona wire	A charged wire in a laser printer that draws the toner off the drum onto the paper.
+actual arguments	The scalar values that you supply to a function or subroutine when you call it
+document management	A systematic method for storing, locating, and keeping track of information that is valuable to a business
+rotoscoping	A rotoscope is an animation stand used to project a sequence of action frames against a surface
+qfe	Quick Fix Engineering
+left click	To click the left mouse button.
+hydravision	Software published by ATI for use with their video boards, to enable two or more adjacent monitors to display a single combined very wide image.
+upgrade	Microsoft KnowledgeBase article 824684 includes the following definition of this term as used by Microsoft: "An upgrade is a software package that replaces an installed version of a product with a newer version of the same product
+development environment	Programming environment
+closed	The "on" position of a switch, since then the electrical circuit is connected.
+mega	1,048,576 (1024 x 1024, 2 to the twentieth power).
+msjvm	Microsoft Java Virtual Machine
+mpeg-21	Multimedia Framework
+db	Database.
+mime	"Mime"
+drw:	Microsoft KnowledgeBase article title prefix for articles relating to the Microsoft Draw.
+discrete_random	child of Ada.Numerics, used to generate discrete random numbers.
+ordinal	An ordered set of values.
+pipeline	A series of processes all in a row, linked by pipes, where each passes its output stream to the next.
+argitrade	Schema
+c4	Controlled Collapsed Chip Connect
+spi	Service Provider Interface.
+durability	The capacity of a system to support persistent data
+codec	In the videoconferencing world, a video codec converts analog video signals from a video camera to digital signals for transmission over digital circuits, and then converts the digital signals back to analog signals for display
+java	A programming language that extends the Web to handle the distribution of interactive content: video, audio, multimedia, and so on
+sample	Normally used to mean a sound sample, i.e
+root	The superuser (UID == 0)
+closed system	An environment in which system access is controlled by persons who are responsible for the content of electronic records that are on the system.
+fonts	See Fixed Font, Monospaced Font, Non-Proportional Font, Proportional Font, Sans Serif Font, Serif Font and TrueType Font.
+yellow book	See Book.
+documents	Any content acquired by traversing or crawling
+wi-fi	See "Wireless Network".
+symbolic reference	A variable whose value is the name of another variable or subroutine
+buffer	A temporary holding location for data
+ezine	An "electronic magazine."
+domainkeys	A anti-spam email system proposed by Yahoo in May 2004
+mb	The abbreviation for megabyte, roughly one million bytes.
+array context	An archaic expression for what is more correctly referred to as list context.
+dictionary attack	A method whereby a malicious user tries to guess a password using words found in a dictionary
+web page identifier	A Uniform Resource Identifier intended to be recognized by a user as representing the identity of a specific Web Page (resource).
+webcast	To use the Internet to broadcast live or delayed audio and/or video transmissions, much like traditional television and radio broadcasts
+conditional	Something "iffy"
+nibble	Four bits, half a byte
+parameter	See argument.
+accessible member	A member that can be accessed by a given type
+xslt	Acronym for eXtensible Stylesheet Language Transformation
+msp	File extension
+bofh	"Bastard Operator From Hell," a classic diary of the ultimate in outrageous system support widely posted on Usenet
+adware	See "Ad-Ware".
+trojan horse	A software program which pretends to do one thing but actually acts as a virus
+value	Some form of data
+drod	Deadly Rooms Of Death, a superb logic puzzle game (despite its name)
+common associations list	a tool used to identify associations for a domain model – a list of common types of associations
+web log	Also weblog or blog
+p3p	Platform for Privacy Preferences
+ion implatation	One way that the surface of a chip is transformed
+server	In networking, a process that either advertises a service or just hangs around at a known location and waits for clients who need service to get in touch with it.
+pst	File extension
+emulator	A program which allows one type of computer to mimic another and thereby to run programs written for that other computer
+x	File extension
+capture	v
+dvd	Digital video disc; a removable computer storage medium that has a larger capacity than a CD.
+accessibility	The art of ensuring that, to as large an extent as possible, facilities (such as, for example, Web access) are available to people whether or not they have impairments of one sort or another.
+modulo	The % operator.
+html help	See CHM.
+execute	To perform the actions specified in the program code.
+mfc	Microsoft Foundation Classes
+target file	The file or files created as a result of a program's installation procedure
+integer_io	a predefined generic package exported by Ada.Text_IO, used to support input and output of text representing values of user-defined integer types.
+favourites	See Bookmarks.
+database management system	see DBMS
+electronic component	a part of the printed circuit board, such as resistor, capacitor, transistor, etc.
+directory	A special file that contains other files
+uddi	Universal Description, Discovery and Integration
+anti-aliasing	Pixels on CRT screens are square and result in jagged edges where colors meet
+module	Program, or part of a program.
+operators and precedence	Top to bottom:
+development kit	Microsoft KnowledgeBase article 824684 includes the following definition of this term as used by Microsoft: "A development kit is software that is designed to help developers to write new programs
+mdi	Multiple Document Interface
+k56flex	See V.90.
+dao	(Microsoft) Data Access Object
+inactive record / document	A record/document that has business value but is not readily used that should be transferred and retained in less expensive or accessible space and media based on established retention, transfer, and disposition schedules.
+edge connector	a connector on the circuit-substrate edge in the form of plated pads or lines of coated holes used to connect other circuit board or electronic device.
+s-video	A type of video signal output by some video boards, suitable for input to televisions
+locator	The reference to an anchor
+ict	Information and Communication Technology
+giga	1,073,741,824 (1024 x 1024 x 1024, 2 to the thirtieth power).
+oem	Original Equipment Manufacturer
+directmusic	That part of DirectX which handles the playing of music files.
+usb	Universal Serial Bus - see that entry.
+webcrawler	Another Web search engine, somewhat old: http://www.webcrawler.com.
+application	Software that carries out a task that would be necessary in the absence of computers (e.g
+dither	To create an otherwise unobtainable colour by creating a pattern of dots of two or more colours which can be created (dithering in space)
+composition	a form of aggregation where the ‘part’ is part of only one ‘whole’, and its existence and location and other features are tied to the whole
+rexx and regina	Rexx is a very obscure programming language, designed to teach programming to beginners
+shareware	See "Register".
+field	Computer-allocated space for data input.
+ac power	Power that comes from an electrical outlet in the wall or power strip.
+disco	File extension
+cts	See RTS/CTS.
+decompress	To convert compressed, unreadable data into uncompressed, readable data.
+i/o addresses	Input/Output Addresses
+pap	Password Authentication Protocol
+meta tag	HTML tags that can be specified within an HTML document and that are not displayed to the end user, but which may contain information about the document
+input	Information sent to and received by your computer.
+iteration	Doing something repeatedly.
+ocr	Optical Character Recognition
+signaling types	The sending device and the receiving device must send signals in order to synchronize their clocks and determine where one block of data ends and the next begins
+unknown network	Unknown networks are those networks that are neither trusted nor untrusted
+bitmapped font	Same as raster font - see that entry.
+synchronous transmission	A transmission mode in which the data moves in large blocks, called messages or frames
+dtmf	Dual-Tone Multifrequency
+move	a predefined procedure exported by Ada.Strings.Fixed, used to copy and truncate or pad strings.
+pagerank	See Enterprise PageRank.
+base	The electrode of a transistor which controls the movements of electrons or holes by means of an electric field on it
+dash	- (see that entry).
+ndis	See network device interface specification.
+iso	An international group of national standards bodies.
+mpeg-1	MPEG-1 is used for digital video at low compression rate
+parent object	If object A contains a property B, where property B is also an object, then A is the parent object to B.
+irc	Internet Relay Chat
+single quote	Also called an apostrophe: ' .
+a/s/l	A coded question frequently used in teenage chats
+der	Distinguished Encoding Rules
+zombie	A process that has died (exited) but whose parent has not yet received proper notification of its demise by virtue of having called wait or waitpid
+wireless lan	See "Wireless Network".
+msvbvm50.dll and msvbvm60.dll	See "Visual BASIC Runtime Library Files".
+rgb	RGB color stands for "Red Green Blue" (see color) and is an additive color mechanism
+comment	A remark that doesn't affect the meaning of the program
+re:	Reply
+value	Value or brightness is achieved by adding white or black to the basic color hue
+method	A kind of action that an object can take if you tell it to
+ifo	File extension
+tweening	In the early days of animation the senior animation designer would draw the major frames where changes would take place
+ageia physx	A physics calculations co-processor hardware add-on
+multimedia	Any computer program that uses one or more of the following: text, graphics, sound, and video.
+cddb	A database of audio CD's, listing artist names, album names and track names, keyed by each CD's serial number
+generator	The generator is the backbone of qooxdoo's build process
+b2c	Business to Consumer
+z buffering	A term associated with 3D graphics, I think.
+brb	Chat shorthand for "be right back".
+riaa	Recording Industry Association of America
+rs-232	A set of EIA standards specifying various electrical and mechanical characteristics for interfaces between DTE and DCE data communications devices
+iv	The integer four, not to be confused with six, Tom's favorite editor
+check digit	An extra calculated digit added to the end of a code number
+window	A distinct rectangular region on the screen, usually with borders and a top bar that allows to drag it around
+dcom	Acronym for Distributed Component Object Model
+case statement	A selection statement allowing one of several groups of statements to be executed depending on the data being processed.
+fragmentation	The act of dividing up one or more authored units to create a set of perceivable units appropriate for a particular delivery context
+reaping	The last rites performed by a parent process on behalf of a deceased child process so that it doesn't remain a zombie
+newspaper columns	A facility provided in some word processing programs, which allows text to be laid out in vertical columns
+lvalue modifier	An adjectival pseudofunction that warps the meaning of an lvalue in some declarative fashion
+spoof	An attack wherein the attacker conceals his identity by appearing as another user through the falsification of data, such as email headers.
+synchronous optical network	See SONET
+glossary	A collection of words with their meanings
+filtering	One type of filtering transmits a selected range of energy to suppress unwanted frequencies or noise
+connector	Microsoft KnowledgeBase article 824684 includes the following definition of this term as used by Microsoft: "A connector is a software component that is designed to support connections between software."
+.htaccess	A file that resides in a specific directory, and contains configuration information applying to that directory
+cdfs	In Windows, the file system driver for CD-ROM drives.
+compilation	The act of translation performed by a compiler.
+assign	Refer a value to a variable name.
+jet	"Jet"
+regworm	Registration Worm
+boolean	An element of logic: true, false, and (&&), or (||).
+postnuke	A CMS (Content Management System).
+ttl	TTL is an acronym for “Time To Live”
+shttp	Secure Hypertext Transfer Protocol
+domain forwarding	A technique that allows you or your users to automatically send visitors to a domain when they access another domain
+usenet	See News.
+iterator	A special programming gizmo that keeps track of where you are in something that you're trying to iterate over
+standard input	The default input stream for your program, which if possible shouldn't care where its data is coming from
+xla	File extension
+circuit board	Same as printed circuit board
+dbms	Database Management System
+prb:	Microsoft KnowledgeBase article title prefix for articles relating to problems which have not yet been resolved.
+qualified	Possessing a complete name
+sata	Serial ATA
+pass	The number of times that the source text has to be scanned or rescanned in order to compile the program
+blue-screen video	The combination of a human actor on top of a computer generated background, as in some graphical adventure games
+burton	Codename for Microsoft Visual Studio Team System 2005
+exceptions classes	Following is the class hierarchy of Exception class:
+hypertext	Text linked together in a complex, nonsequential web of associations in which the user can browse through related topics
+bmp	Bit Map unique format for Windows electronic graphics files.
+class	a container for objects
+dvd	Digital Versatile Disk
+expression	A combination of symbols that returns a value when executed.
+iteration	One sweep through a program loop.
+call	A single session in which a calling device and an answering device connect over the WAN.
+string context	The situation in which an expression is expected by its surroundings (the code calling it) to return a string
+x2	See V.90.
+mirc	An IRC program (see that entry).
+stylus	A kind of mouse that looks like a pen and draws on a special pad, which translates to the computer display.
+audio interchange file format	See AIFF
+lazarus	A free and open source IDE for creating console and graphical Pascal and Object Pascal applications
+ncs	Network Configuration Services, an Intel software component.
+default	A value chosen for you if you don't supply a value of your own.
+utf-8	UTF-8 is an 8-bit character set specified by Unicode Technical Committee
+pbbg	Persistent Browser-Based Game
+smb	Server Message Block
+view	refers to different ways of viewing an object, such as the classwide view or an extended view of a tagged object.
+clicks and bricks	An informal name for the type of traditional company which now also dabbles in e-commerce as a sideline, often in a very amateurish manner.
+chain letter	email that urges recipients to forward the message to other people; consequently wastes time and bandwidth
+oobe	Out Of Box Experience
+standard output	The default output stream for your program, which if possible shouldn't care where its data is going
+freecell	A very challenging patience (solitaire) card game, involving considerable skill
+chat	A form of real-time electronic communications where participants type what they want to say, and it is repeated on the screens of all other participants in the same chat
+netiquette	Netiquette (Network Etiquette) is an informal code of manners which should govern your behaviour on the Internet
+pic	File extension
+command name	T he name of the program currently executing, as typed on the command line
+sht	File extension
+efs	Encrypted File System
+scaleable font	A font which can be enlarged without any significant deterioration in its quality - curves will still appear as smooth curves and not as jagged steps
+post	To submit a message to a news group
+b2b	Business to Business
+cfm	File extension
+cardinal	In Delphi™, the basic unsigned integer type.
+secondary cache	See "Cache".
+page impression	Whereas a web page with numerous graphics images would record numerous hits when visited, it should (in theory) only record one page impression.
+freeware	Historically, any software that you give away, particularly if you make the source code available as well
+literal	A token in a programming language such as a number or string that gives you an actual value instead of merely representing possible values as a variable does.
+condition branch	A condition branch is one or more conditions terminated by two terminal nodes
+global variable	A variable that can be used anywhere in a program.
+lexical scoping	Looking at your Oxford English Dictionary through a microscope
+loop	A section of program code that is executed over and over in repetition, until some condition changes.
+ddp	Datagram Delivery Protocol
+flash memory	A faster form of EPROM that permits more erase/write cycles
+options	See either switches or regular expression modifiers.
+association	A connection between a file extension (file type) and a program, so that opening a file with that extension will cause the specified program to run and open the file automatically.
+null	Represents a null reference
+member variables	Typed memory locations used to store values
+ids	Intruder Detection System
+p2p	Peer to Peer
+network news transport protocol	See NNTP
+paging	A technique for virtual memory implementation
+die	1
+declaration	code that creates an association between an identifier or operator symbol and some entity
+mb	megabytes
+procedure	A subroutine.
+captcha	CAPTCHA: Telling Humans and Computers Apart Automatically A CAPTCHA is a program that protects websites against bots by generating and grading tests that humans can pass but current computer programs cannot
+home directory	A cPanel account's highest-level directory, which contains all the files and directories used by websites managed by your account
+rollover image	A rollover image is used in the context of navigation where an image button, that serves as a link elsewhere, changes into a different image because of some or other associated pointer behaviour (e.g
+active component	1
+flame	A rude or over-strongly worded opinion posted to a news group (etc)
+fcl	Refer to Framework Class Library.
+cms	See content management system.
+api	application programming interface
+jar file	(Java ARchive) A compressed file that contains compiled Java code and other files such as XML files.
+open standard	A publicly available set of specifications describing the characteristics of a hardware device or software program
+artificial intelligence markup language	Artificial Intelligence Markup Language
+environment	The collective set of environment variables your process inherits from its parent
+case statement	a compound statement with a multi-way selection.
+synchronous	Programming in which the orderly sequence of events can be determined; that is, when things happen one after the other, not at the same time.
+s4u2proxy extension	The S4U2proxy (Service-for-User-to-Proxy) extension completes the constrained delegation process
+statement modifier	A conditional or loop that you put after the statement instead of before, if you know what we mean.
+provider	A Provider can be anyone who provides healthcare to patients (ie
+authentication	A process for confirming the identity of someone with whom you want to share information
+deprecated	A term used to describe a feature which is no longer supported.
+autogeneration	A feature of operator overloading of objects, whereby the behavior of certain operators can be reasonably deduced using more fundamental operators
+computer systems validation	Confirmation by examination and provision of objective evidence that computer system specifications conform to user needs and intended uses, and that all requirements can be consistently fulfilled.
+ascii text	A thoroughly unoffical subset of US-ASCII which contains the space character, numbers, most basic punctuation, and unaccented letters a-z and A-Z, but lacks the control codes .
+pov	Point Of View
+sas	Serial Attached SCSI
+voip	Voice Over Internet Protocol, or Voice On Internet Protocol
+v-string	A "version" or "vector" string specified with a v followed by a series of decimal integers in dot notation, for instance, v1.20.300.4000
+chip	An integrated computer circuit containing many elements connected on a single unit.
+ade	File extension
+lapm	Link Access Procedure - Modems
+codec	Coder/Decoder (or Compressor/Decompressor)
+cdt	File extension
+dvi-i	A DVI socket with both analogue and digital output.
+midband	A 128kbps Internet connection system using an existing conventional phone line, proposed by BT as a possible solution for customers who are connected to a non-ADSL enabled exchange, or who live too far aware from an ADSL-enabled exchange for ADSL to work
+navigation	An activity, based on a mechanism provided by an active perceivable unit, by which a user can alter their focus of attention
+run-time	The period when a program is running/being executed/doing some hopefully useful work, as distinct from compile-time when the program is being translated.
+exim	Mail server software, known for its configurable nature
+collating sequence	The order into which characters sort
+mdw	File extension
+ebois	Sometimes spuriously listed as having failed to load in Bootlog.txt
+web client	Software that provides web access to :
+ntfs	New Technology Filing System
+encoding scheme	Each language has an official encoding scheme which is used to represent all of the language's characters in an 8-bit data stream format
+fla	File extension
+mirage	See XMirage.
+unified modeling language	UML is an industry-standard language for specifying, visualizing, building, and documenting the artifacts of software systems standardized by the Object Management Group
+visual basic scripting edition	See BASIC.
+isdn	ISDN stands for Integrated Services Digital Network
+mpeg-3	MPEG-3 is used for digital video at low compression rate
+bag	an unordered collection that allows duplicates
+aspi	Advanced SCSI Programming Interface
+terminology	A set of terms representing the system of concepts of a particular subject field.
+ui	User interface (of a program).
+condition	A comparative test between user-defined values and the actual values of a session request
+parameter	In Pascal there are two types of parameters, 'Formal' and 'Actual'
+return value	The value produced by a subroutine or expression when evaluated
+atm	Asynchronous Transfer Mode
+variable parameter	A parameter used in a procedure when the argument passed to it is an address of a variable (passing by reference)
+wireless pbx	Equipment that allows employees or customers within a building or limited area to use wireless handsets connected to an office's private branch exchange system.
+pls	File extension
+ranged	A term often used in RPG's (role-playing games)
+boolean search	A method of searching for information in databases that combines search terms with the operators AND, OR, NOT, and parentheses
+ascii text file	A file with no internal formatting other than carriage returns
+transliterate	To turn one string representation into another by mapping each character of the source string to its corresponding character in the result string
+wireless application protocol	Wireless Application Protocol (WAP) is a protocol adopted as a standard by mobile device manufacturers for interacting with online services
+make exe	Microsoft jargon for "compile" (see that entry).
+regina	See "Rexx and Regina".
+white book	See Book.
+fp:	Microsoft KnowledgeBase article title prefix for articles relating to the Microsoft FrontPage HTML/web page editor program.
+object	In object-oriented programming, a variable comprising both routines and data that is treated as a discrete entity.
+store and forward	A method of handling transactions on a network
+mpeg-4	MPEG-4 is used for integrated multimedia and a compression standard for long audio or video files with limited digital storage media (DSM) or low bandwidth availablity
+pps	File extension
+ubuntu	A version of the Linux operating system.
+element	A basic building block
+direct3d	One part of DirectX.
+ibm	Schema
+hoax	An apparently plausible email message which in fact is a work of fiction
+all-in-one	A type of inkjet printer that can also act as a scanner, fax machine, and copier.
+method	A term used in Visual BASIC programming to refer to any command, function or subroutine which changes a property of an object.
+winfs	A new filing system, successor to NTFS, in which all of a computer's logical files are held in a single database physical file
+smart card	Electronic device about the size of a credit card containing electronic memory, and/or an embedded integrated circuit (IC) or chip
+hdml	Handheld Device Markup Language
+allocation unit	See Cluster.
+awstats	A program that provides information about the visitors to your website in both graphical and statistical views
+asynchronous	Said of events or activities whose relative temporal ordering is indeterminate because too many things are going on at once
+embedded processor	A computer chip that controls the function of its product
+wga	Windows Genuine Advantage
+crawl	To search a web site or server for documents and pages to index.
+another markup language	Another Markup Language describes communication network models.
+btw	Chat shorthand for "by the way".
+gamma correction	In simple terms, an adjustment of the brightness of a graphic image, monitor, etc
+device name	A disk drive letter or other device name, always terminated by a colon
+source code	Software is written by developers in source code—a human-readable language like C# or Java
+insertion point	The black flashing vertical line between two characters, which indicates where text will be inserted if you type
+directinput	That part of DirectX which handles joystick input.
+jpg	"Jay - peg"
+value	the state of an object
+toner	A powdery ink substance that comes in a cartridge; used by laser printers.
+protracker	See MOD.
+automation markup language	AML (Automation Markup Language) is the primary internal language used by AutoMate.
+national televisions standards committee	See NTSC
+generic unit	a template for other Ada program units; the template can be parameterized by objects, types, subprograms, and packages
+mtu	Maximum Transmission Unit
+data over voice	Sending digital data over telephone trunks conditioned for voice
+superuser	The person whom the operating system will let do almost anything
+trinary	Not a stellar system with three stars, but an operator taking three operands
+type conversion	changing a value, variable or parameter from one type to another type (such as from a real number to an integer).
+tcpa	Trusted Computing Platform Alliance
+multiplicity	characteristic of a role
+member data	See instance variable.
+asml	An Abstract State Machine Language.
+merge-scan	a ‘join method’ useful when both tables are pre-sorted on the join attributes
+sus	(Microsoft) Software Update Services.
+ttf	File extension
+parentheses	Round brackets, ( and ).
+acts	Ada Conformity Assessment Test Suite -- test suite used to validate Ada 95 systems
+automated test equipment	equipment that automatically tests and analyzes functional parameters to evaluate performance of the tested electronic devices.
+host	A computer on a network.
+archive	1
+subscript	A value that indicates the position of a particular arrayelement in an array.
+surge protector	A special type of power strip that helps fight irregularities in the electrical supply that runs to your computer.
+directplay	One part of DirectX
+cdo	Collaboration Data Objects, or Collaborative Data Objects
+distribution file	The file or files which contain the final compiled version of a program, and which need to be copied or downloaded in order to obtain the program
+apm	Advanced Power Management
+aa	Anti-Aliasing
+nt	See Windows NT.
+resx	File extension
+resource	a component of a database (usually a table, view or attribute) on which privileges may be granted or revoked to or from users
+swf	File extension
+standard	Something which one group of people want to impose on another group of people.
+transmission control protocol	See TCP
+dithering	Dithering is the process by which a large number of colors are forced into a smaller color palette
+system	the predefined package that (along with its children) defines various machine-dependent or configuration-dependent characteristics.
+digital	A means of storing, transmitting, manipulating, or reproducing data, images and sounds by using groups of electronic bits represented by 1 and 0.
+caching	Caching is the process where DNS servers or applications (such as your web browser) will story a copy of DNS records
+character set	There are tens of thousands of characters used in human writing systems
+kbps	Kilobits per second, as in a modem's transmission speed.
+jumper	A tiny plastic square shaped device containing a metal contact, which can be pulled on and off two pins on a printed circuit board, so as to connect them together or not as desired
+server	Refers to either the software or system providing information services on request to a client.
+decomposition	The act of dividing up one or more authored units, or an aggregated authored unit, during creation of a set of perceivable units appropriate for a particular delivery context.
+author / web author	A web author is a person who writes the markup (HTML) for web documents
+tera	1,099,511,627,776 (1024 x 1024 x 1024 x 1024, 2 to the fortieth power).
+file i/o	Common methods include:
+root	The top-level directory of a disk
+flops	Floating Point Operations Per Second
+user	Whoever is visiting your Web page, and, therefore, "using" and interacting with your JavaScript program.
+autonomous agent	An autonomous agent implies that it does not communicate directly with any other agent
+tax fraud	The use of a victim's identity to file false taxes or claim false tax returns.
+b2r	Back to Reality!
+multimedia	Sound
+surface mount	A method of attaching electronic components to a printed circuit board by soldering them directly to the surface of the board, rather than by connecting them to posts on the board or through holes in the board
+unc	Universal naming convention
+bcc	Blind Carbon Copy
+creative commons	See CC.
+parity	An error detection system
+hash mark	The symbol #
+fast ethernet	A 100-megabit-per-second standard for local area networks.
+netbeui	NetBIOS Extended User Interface
+vbx	File extension
+polymorphism	having many forms (see static polymorphism and dynamic polymorphism).
+syntax highlighting	Displaying text (especially source code) in different colours, fonts and styles according to the category of terms.
+omr	Online Medical Record
+x86	A 286, 386, 486 or Pentium processor
+defect	A chemical or structural irregularity that degrades the product
+self-assembly*	The ability of objects to assemble themselves into an orderly structure
+raid	Redundant Array of Inexpensive Disks
+patch	To fix by applying one, as it were
+audio/video interleaved	One of several compression techniques (this one’s by Microsoft) for Internet video with sound.
+virtual	Providing the appearance of something without the reality, as in: virtual memory is not real memory
+cgi	Common Gateway Interface
+method body	See method implementation.
+cable modem	A device that enables a broadband connection to the Internet by using cable television infrastructure
+facility	A general term for the transmission media and equipment in communications networks; i.e., the “pipes” that carry information signals
+irq	Interrupt Request
+nybble	Half a byte, equivalent to one hexadecimal digit, and worth four bits.
+sdi	Single Document Interface
+machine code	The form of a program which can be directly obeyed by a computer
+hypermedia	Any nontextual element, such as animation, recorded sound, images, or video that links to other information.
+baudot code	The Baudot code, used by early teleprinters, represents letters, numbers, and symbols in five-character binary codes, which includes shifts to increase the number of characters beyond 32.
+msn explorer	Descriptions of this program seem to be generally very vague and somewhat contradictory, possibly because the program has changed over time
+expression	Virtually any "phrase" of JavaScript code, such as an assignment, arithmetic, comparisons, and so on.
+subvariable	A variable that is a property of an object.
+interface	The services a piece of code promises to provide forever, in contrast to its implementation, which it should feel free to change whenever it likes.
+compute with fruit	A colourful way of saying that someone uses an Apple computer.
+firebird	See Firefox.
+tcp/ip	Stands for "Transmission Control Protocol/Internet Protocol." The TCP part has to do with the verifying delivery of the packets
+elf object	An intermediate ELF file that still contains unresolved references.
+advanced research projects agency	See ARPA
+sp	Service Pack
+t2	A T-carrier that can handle 6.312 Mbps or 96 voice channels.
+vendor invoice	Bill sent to company from vendor.
+numeric context	The situation in which an expression is expected by its surroundings (the code calling it) to return a number
+symbol	One or more characters representing an operator, value, constant, variable or subroutine.
+index	To extract information from documents and create an index of terms found in the documents
+ops	File extension
+netscape	See Navigator.
+raise statement	a simple statement that raises an exception.
+man	Metropolitan Area Network
+point-to-point protocol	See PPP
+universal character set	See UCS
+dcbs	Double-byte character set
+a/d	Analog-to-Digital Converter
+accessor methods	A method used to indirectly inspect or update an object's state (its instance variables).
+private key	One of two keys in public key encryption
+directsound	That part of DirectX which handles sound generation and output.
+microsoft foundation classes	See Class.
+element	A screen element is any widget on the computer screen
+quick basic	See BASIC.
+signature	see ‘Method Signature’.
+pcb	Printed Circuit Board
+stdio	See standard I/O.
+simulation	A type of program which simulates a physical situation
+vivo	In the descriptions of video boards, this means video in, video out
+subdomain	A subdomain is anything that appears before your master domain in the URL, i.e
+legacy system	A system (and the associated programs, processes, and procedures already in place) currently deployed and in use within an organization
+uniform resource locator	That’s techie jargon for the address of a page
+rmi	Remote Method Invocation
+six sigma	Six Sigma is a highly structured program for improving business processes and represents the latest incarnation of the quality movement
+tool	Microsoft KnowledgeBase article 824684 includes the following definition of this term as used by Microsoft: "A tool is a utility or a feature that helps to complete a task or a set of tasks."
+sub-list	Some JISCMail lists are organised into families or groups within a subject area
+net	The Internet top-level domain for Internet Service Providers and similar companies.
+solution	A commercially available program
+numeric variable	A variable that contains a numeric value, such as 5.
+ring	See "Web Ring".
+task	Tasks are the ordered collection of specific actions into a meaningful relationship
+visual basic for applications	See BASIC.
+score	In music the score contains the notes of a composition
+host	The computer on which a program or other data resides.
+information system	the procedures whereby information within an organization is managed
+api	Application Program Interface
+implementation	How a piece of code actually goes about doing its job
+entry	a reserved word used in creating interfaces to task units and protected units.
+adsl	Asynchronous Digital Subscriber Line
+operation	a function or transformation that may be applied to objects in a class. 
+statement	A simple statement is an expression followed by a semicolon
+charset	Short for character set
+cd-r	A CD recording system which only allows a disk to be written to once
+video card	The circuitry that controls the image appearing on the monitor’s screen; also known as a graphics adapter.
+true color	24-bit or 32-bit colour
+udt	User Defined Type
+raster font	Same as bitmapped font
+declaration	An assertion that states something exists and perhaps describes what it's like, without giving any commitment as to how or where you'll use it
+sgml	Acronym for Standard Graphics Markup Language
+shared aggregation	An aggregation where the ‘part’ may belong to more than one ‘whole’
+relational database	A database program in which two or more related files can be open at once.
+qos	Quality of Service
+non-proportional font	A font in which each character has the same width
+physx	See "AGEIA PhysX".
+abstraction	A term used in object oriented programming
+feed reader	An RSS client program (see RSS)
+class	a set of types that derive from a common root type, also called a derivation class
+app	File extension
+awk	Descriptive editing term--short for "awkward"
+ddos	Distributed Denial Of Service
+thg	Tom's Hardware Guide http://www.tomshardware.com - a web site which offers a large amount of extremely useful information on the subject of computer hardware
+bho	Browser Helper Object
+operator	One of the following symbols: =, +=, -=, *=, /=, or %=
+sql adapter	An adapter that retrieves and adapts content from any JDBC-enabled data source.
+status	The value returned to the parent process when one of its child processes dies
+iso	International Organization for Standardization
+connection	In telephony, the temporary electrical circuit between the caller's and the callee's phone
+dynamic loader	A post linking tool typically used to dynamically resolve references at load time.
+lcd	Liquid crystal diode; A type of computer monitor, also called a flat-panel monitor, that’s thin and uses relatively little electricity.
+warning	A message printed to the STDERR stream to the effect that something might be wrong but isn't worth blowing up over
+bridge	A device used at the data link layer that selectively copies packets between networks of the same type.
+vredir	In Windows, the file system driver for network drives mapped by the Client for Microsoft Networks.
+assignment	An operator whose assigned mission in life is to change the value of a variable.
+mui	Multilingual User Interface
+sys	"sizzz"
+logging on	Slang for the process of connecting to a central computer network or service from a local computer (sometimes referred to as logging in)
+nv	Short for Nevada, no part of which will ever be confused with civilization
+sigada	Special Interest Group: Ada, a part of the professional society, Association for Computing Machinery (ACM).
+binary	Having to do with numbers represented in base 2
+super video cd	See "Video CD".
+entry family	a set of entries in a task, all having the same name.
+notebook	Another name for a laptop.
+string literals	Ruby strings are simply sequences of 8-bit bytes and they are objects of class String.
+wbk	File extension
+focus of attention	The point in an active perceivable unit on which the user's attention is currently focused.
+doping	A wafer fabrication process in which exposed areas of silicon are bombarded with chemical impurities to alter the way the silicon conducts electricity in those areas.
+joint photographic experts group	See JPEG
+freeware	Free software.
+charity fraud	An individual or group that deliberately misrepresents its fundraising intentions or solicits charitable funds for phony causes
+larp	Locus Address Resolution Protocol
+clone	A wireless phone programmed with stolen or duplicated electronic serial and mobile identification numbers.
+mosaic	A Web browser developed by Marc Andreessen, Eric Bina, and their colleagues at NCSA.
+web document	Web document is a synonym of web page.
+data structure	How your various pieces of data relate to each other and what shape they make when you put them all together, as in a rectangular table or a triangular-shaped tree.
+pci	Peripheral Component Interconnect
+vml	Vector Markup Language.
+elementary_functions	child of Ada.Numerics, which provides mathematical facilities.
+soho	A market that consists of individuals that work some of their time at home and some of their time in an office.
+cnp	Card Not Present
+dns	Acronym for Domain Name System
+pad	Short for scratchpad.
+universal real	an anonymous type used in evaluating universal real expressions
+upnp	Universal Plug And Play
+pro	As a suffix after the model number of an ATI video board, this indicates a board more powerful than the normal board
+tariff	Documents filed by a regulated telephone company with a state public utility commission or the Federal Communications Commission
+bookmark	A link from a service to an external, device-compatible data source that does not require processing through the Mobile Collaboration server.
+rfid	Radio Frequency Identification
+saturation	The saturation (or intensity, also called chroma) refers to how much of the same hue is present
+cascading style sheets	Stylesheets are the hottest thing in web design since they were introduced a few years back
+byte	A data unit of eight bits.
+hsdpa	High-Speed Downlink Packet Access
+annotation markup language	The combination of the structural skeleton and the DCS defines a virtual annotation markup language (AML)
+magical variables	Special variables that have side effects when you access them or assign to them
+analog signal	A type of signal that encodes data transmitted over wire or through the air, and is commonly represented as an oscillating wave
+call	The act of telling JavaScript to execute a function.
+username	The name by which a user is identified to a computer system or network
+business rules markup language	XML Rule Interlingua for Agent Communication, based on Courteous/Ordinary Logic Programs.
+managed resources	A resource that is part of an assembly.
+right click	To click the right mouse button
+lossy	A lossy file format or transmission protocol means that some data is lost but in a controlled fashion so as to undetectable
+nvram	Non-volatile RAM (see that entry).
+trilinear filtering	A term used in computer graphics
+hit points	A system often used in RPG's (role-playing games) to record a character's state of health
+anode	1
+agriculture markup language	AGML (Agriculture Markup Language) will be used primarily for financial purposes
+network file system	See NFS
+hash code	Unique number generated to identify a module in an assembly
+instance variable	An attribute of an object; data stored with the particular object rather than with the class as a whole.
+subroutine	A named or otherwise accessible piece of program that can be invoked from elsewhere in the program in order to accomplish some sub-goal of the program
+simple result format	A content format that contains abstract user interface elements such as text items, menus, forms, and tables.
+per	Packing Encoding Rules
+hypertext mark-up language	HTML is the language you’re here to learn
+tower	A PC configuration that has essentially a full-sized desktop console standing on its side, usually on the floor; includes a lot of room for expansion.
+ps	File extension
+variable	A named storage location that can hold any of various kinds of value, as your program sees fit.
+die	A single integrated circuit (or chip) cut from the wafer on which it was manufactured.
+server side include	See SSI
+tmp	"Temp"
+serial overrun errors	My modem log file normally reports a number of serial overrun errors for each online session
+translator	A computer program to convert instructions from one language to another
+mca	Micro Channel Architecture
+built-in	A function that is predefined in the language
+lvaluable	Able to serve as an lvalue.
+assembly	1
+crawler	See spider.
+debug	The irritating act of attempting to track down errors or design flaws in a program.
+defining a method	Following is the general syntax to define a method in ruby
+recursion	The art of defining something (at least partly) in terms of itself, which is a naughty no-no in dictionaries but often works out okay in computer programs if you're careful not to recurse forever, which is like an infinite loop with more spectacular failure modes.
+priority	A value to indicate which order to try and use multiple MX records (lower = more priority) – if the first returnsa host that is unavailable, it tries the next one etc.
+gof	Refer to Gang of Four.
+imho	In my humble opinion.
+gid	Group ID--in Unix, the numeric group ID that the operating system uses to identify you and members of your group.
+direct color	When 256 or less colors are used to be rendered on a computer's screen, a Color map / color palette / indexed color is typically used, but when more colors need to be described such a palette becomes too large
+delphi™	Object oriented Pascal developed by Borland.
+stopping condition	In a recursive procedure or function, the necessary condition which causes it to exit rather than call itself again.
+surf	The act of viewing Web pages
+field	A data member of a class or struct that is accessed directly.
+cached result	As part of its core technology, Google indexes all the content on a page, rather than just a portion of the content or just meta tags
+tco	Total Cost Of Ownership
+pnp	Plug and Play - see that entry.
+shb	File extension
+symbol font	A font which contains graphics characters instead of the usual letters, digits and punctuation marks
+dla	See "Drive Letter Access".
+baud rate	A nearly obsolete term for transmission rates synonymous in early, simple systems with bits per second
+e-commerce	Electronic commerce
+reboot	To restart your computer.
+internet architecture board	See IAB
+compilation unit	The file (or string, in the case of eval) that is currently being compiled.
+bits	Background Intelligent Transfer Service
+wsf	File extension
+regular expressions	Syntax:
+socket	An endpoint for network communication among multiple processes that works much like a telephone or a post office box
+bounce	The return of an e-mail message because of an error in its address or delivery.
+net	See .NET.
+class	a set of objects that share a common structure and a common behavior
+compound statement	an executable statement with multiple lines of code, containing other statements.
+broadcast hypertext markup language	The Broadcast HyperText Markup Language (BHTML) defines the application programming interfaces for a Digital Television Application Software Environment (DASE) compliant receiver.
+chroma	Chroma is also known as saturation or intensity, and refers to how much of the same hue is present in a color
+blog	Short for "web log" or "weblog"
+nanocrystal*	A nanoscale crystal whose size, shape and atomic composition are carefully controlled to yield specific properties, like absorption of specific wavelengths of light.
+escape sequence	Control codes comprising combinations of a backslash followed by letters or digits which represent non printing characters.
+v.42	An error-detection standard for high-speed modems
+baud	Rate of transmission speed in a signal - the number of changes of state, such as voltage or frequency, per second in a signal
+footprint	A management/marketing pseudo-technical term, meaning the width and depth of a device, in other words the amount of space it will take up on a desk
+unary	An operator that takes only a single operand; for example ++ (increment), -- (decrement), and - (negate).
+repetition	Same as iteration: repeating a sequence of instructions until a condition is satisfied or while a condition is satisfied.
+asynchronous-enabled service	Also known as an ASK (Asynchronous Server Kernel) service
+gmw	File extension
+precedence of operators	The order in which operations are carried out when there is more than one operator in an expression.
+three finger salute	A colloquial expression for CTRL/ALT/DEL, which used to reboot a computer but which now brings up the Task List.
+truetype font	A type of font which will be displayed and printed as accurately as possible in all font sizes with Windows
+modulus	An integer divisor when you're interested in the remainder instead of the quotient.
+c	A language beloved by many for its inside-out type definitions, inscrutable precedence rules, and heavy overloading of the function-call mechanism
+update	Microsoft KnowledgeBase article 824684 includes the following definition of this term as used by Microsoft: "An update is a broadly released fix for a specific problem
+pcm	Pulse Coded Modulation
+igmp	Internet Group Management Protocol
+btw	By the way.
+.crt	An SSL certificate, an electronic document which ties a public key to a trusted entity
+dispatching operation	an operation or call, where a tag is used to control which operation is called -- related to dynamic polymorphism.
+psd	File extension
+authored unit	Some set of material created as a single entity by an author
+jpeg	Compressed still images and video
+mime	Multipurpose Internet Mail Extensions
+mirror	A copy of information, usually kept in line with the original, perhaps with a slight time delay
+memory	Temporary computer information storage which is emptied when you turn off the computer; also called RAM
+offset	How many things you have to skip over when moving from the beginning of a string or array to a specific position within it
+v.32	The standard for full-duplex modems sending and receiving data across phone lines at 4800 or 9600 bps
+unicode	A character set comprising all the major character sets of the world, more or less
+atl	Active Template Library
+enumerate	Enumeration appears to be the process in which the Plug and Play system automatically allocates I/O addresses and IRQ and DMA channels to devices
+scale	the range of values (set by the number of digits) of a floating-point or fixed-point type.
+argument	A piece of data supplied to a program, subroutine, function, or method to tell it what it's supposed to do
+application personalization	A set of factors, specified by a user or other aspects of the delivery context, that may affect the functionality of an application, independently of its adaptation and delivery, and so change the resultant user experience."
+burn	To write to a CD-R or CD-RW disk.
+standard rgb	See sRGB
+extensible markup language schema	XML Schemas express shared vocabularies and allow machines to carry out rules made by people
+interpreter	Strictly speaking, a program that reads a second program and does what the second program says directly without turning the program into a different form first, which is what compilers do
+api	An application programming interface.
+test-driven development	TDD is a computer programming technique involving writing test cases first ; then, implementing just the code needed to pass the test
+windows 98se	Windows 98 Second Edition
+coupon	See test coupon .
+mosaic	An early web browser, published by NCSA, the National Centre for Supercomputing Applications at the University of Urbana-Champaign, Illinois.
+parameter	A value received by a function.
+bandwidth	A measure of the amount of data that is moving on a network
+linked list	A dynamic data structure used to hold a sequence.
+mcms	Microsoft Content Management Server
+rbl	Real-time Blackhole List
+operand	In a low-level language instruction, an item of data or address of data that the operation acts on.
+binary	Base two
+subrogate	Selling an aged customer receivable to a collection agency.
+spp	Software Protection Platform
+svg	A language for describing drawings in terms of the shapes that compose them, so that these can be rendered as well as possible.
+post	A diagnostic test the Ascend unit performs when it first starts up or after a system reset
+tga	File extension
+jdk	The Java Developer's Kit, created by Sun Microsystems to assist Java programmers in creating Java applets.
+graphical user interface	This is the part of a program you see — the icons, buttons and menus are all parts of the interface
+personal certificate	Something that guarantees that you are who you say you are
+quicktime	The Apple QuickTime format (in *.MOV files) is a digital video format used for transporting compressed video files through The Internet.
+troll	An outrageous message posted to a newsgroup or mailing list or message board to bait people to answer
+bbs	Bulletin Board System
+primary cache	See "Cache".
+hard-coded	Applies to assumptions built into a program, possibly in multiple places, where they cannot be easily modified.
+routine	A section of code within a program, usually with an identifier that can be used to execute it
+random number generation	a capability provided by predefined packages, Ada.Numerics.Discrete_Random and Ada.Numerics.Float_Random.
+dmca	Digital Millennium Copyright Act
+process	The action that a computer takes on input to produce a different output.
+p-code	Pseudo-code
+broadband	A term which seems to be increasingly used as a synonym for ADSL, although in fact ADSL is only one type of broadband connection.
+output	Any data that is sent to the screen (or, perhaps, to the printer).
+mpeg card	A video card specifically designed for encoding and decoding Motion Picture Experts Group digital video (usually from a DVD).
+aio	All-In-One
+uhci	Universal Host Controller Interface
+texture	File extension
+subnet mask	As I understand it (and I may be wrong) a means by which computers on local area networks can use the same set of IP numbers without any conflicts, even if they are connected to each other (for example, via the Internet).
+upgrade	A complete revision of a computer program that you use to replace the current program.
+screamtracker	See "S3M".
+executable part	the section of a program unit or block that contains executable statements.
+isapi	(Microsoft) Internet Server Application Programming Interface.
+fifo	First In First Out
+eclectic	Derived from many sources
+dat	Digital audiotape; A type of computer backup drive that copies data to a tape.
+highmat	In April 2004 Woody's Windows Watch described HighMAT thus: "HighMAT is a way to easily display pictures and movies on either a computer or a stand-alone player
+syntactic sugar	An alternative way of writing something more easily; a shortcut.
+headset	Headphones that include a built-in microphone for online communications and game playing.
+enter key	See Return Key.
+intranet	Restricted access networks, usually confined to a single agency
+pascal	A high-level programming language designed to teach programming
+world wide web consortium	The W3C
+actual parameter	actual argument (value or expression) used in a call to a subprogram, entry or generic unit.
+backslash	\ (see that entry).
+derive	In the sense of deriving a class, see "Inheritance".
+assignment	The act of referring a value to a variable name; for example, purchases = 10.
+compile phase	Any time before Perl starts running your main program
+yo-yo mode	A description of the state of a device or system which is currently suffering from numerous intermittent faults, so that is alternately up (operative) and down (inoperative) in rapid succession.
+asr	Automated System Recovery
+crt	Cathode ray tube; an older type of computer monitor that offers better color quality than an LCD monitor.
+screen	The part of the computer monitor on which information is displayed.
+blacklist file	A file of blacklist words.
+subdomain	A subdomain is a hostname which depends on (belongs with) a domain name
+compression	Compression is a technique that reduces the quantity of bandwidth or bits required to encode a block of information
+quantum dots*	A class of nanocrystals that emit varying colors of light depending on their size
+cyberspace	Unlike most computer terms, "cyberspace" does not have a standard, objective definition
+green book	See Book.
+type member	Class member.
+logical operator	Symbols representing the concepts "and", "or", "xor", and "not".
+client	a software module that depends upon other modules for services.
+driver package	a software component that may be incorporated into database client software, allowing it to use a particular driver
+obs	File extension
+parameter	see Input parameter, Output parameter
+plug-in	Add-ons for Web browsers
+polymorphism	A term used in object oriented programming
+stop words	Common words, such as articles, prepositions, and pronouns that are not used in a search when entered in a query.
+dba	Adding or subtracting bandwidth from a switched connection in real time without terminating the link
+contacts	See Address Book.
+method	an action that may be performed on an object
+resolution	The number of pixels that your monitor’s display can show, both horizontally and vertically.
+interpreter	A program that translates and executes another program one line at a time.
+authoring tool	An Authoring Tool is a program that enables a multimedia author to create a multimedia product
+assembly	A step in semiconductor manufacturing in which the chip (die) is either encased in a plastic, ceramic or other package or assembled directly on a printed circuit board.
+presence check	A validation check to ensure that the value of a required input has been entered.
+the web	More Internet shorthand for the World Wide Web.
+vshare	Sometimes spuriously listed as having failed to load in Bootlog.txt
+removable media	Storage media, such as a CD, DVD, or flash drive, that can be taken away from your PC.
+increment	To increase the value of something by 1 (or by some other number, if so specified).
+rootkit	A particularly nasty form of computer malware
+mailbase	The email discussion list service to which JISCMail is the successor.
+if statement	A statement that allows selection.
+connection	Windows uses the word "connection" in a potentially very confusing way
+setuid	Said of a program that runs with the privileges of its owner rather than (as is usually the case) the privileges of whoever is running it
+mad	Microsoft Active Directory.
+web page	A document on the World Wide Web
+group	A set of users of which you are a member
+harmonized user experience	A functional user experience that is sufficiently harmonized with the delivery context to meet the quality criteria of the author.
+length scale*	The size range within which an object falls; e.g
+spnego	Simple and Protected GSSAPI Negotiation Mechanism (SPNEGO) is a GSSAPI pseudomechanism that negotiates one or more real mechanisms
+proprietary software	A program owned or copyrighted by an individual or a business and available for use only through purchase or by permission of the owner.
+graphic symbols	symbols used to represent program units, relationships, types, objects, and exceptions.
+indirection	If something in a program isn't the value you're looking for but indicates where the value is, that's indirection
+fine pitch	fine pitch is more commonly referred to surface-mount components with a lead pitch of 25 mils or less.
+vbscript	Visual BASIC Script
+template	A skeleton design
+standard error	The default output stream for nasty remarks that don't belong in standard output
+retire	The act of withdrawing a document from usage
+rtsp	Real Time Streaming Protocol.
+gst	File extension
+pid	Process ID (PID): A unique number that your server assigns to each process that runs.
+microsoft esp	A "platform" for simulation programs
+rc	Release Candidate
+boolean operator	An operator that acts on Boolean (True/False) values
+sleep mode	A state in which the computer slips into a special, power-saving setting, like going into a low-power coma.
+digital data	Data that can have only a limited number of separate values
+dsr	Data Set Ready
+sonic	A publisher of CD burning software
+byte	A byte is a unit of measurement of data size
+pdk	Platform Development Kit
+assignment	An operation that gives a value to a variable.
+barrier condition	condition associated with a protected entry body that is similar to a guard associated with an accept statement
+mnp5	Microcom Networking Protocol
+append	Add data to the end of an existing textfile.
+usage analysis	Data collected to evaluate how a Web site is being used, such as visitor user names, number of visits to each page, and the types of Web browsers used.
+extension	A Perl module that also pulls in compiled C or C++ code
+mmorpg	Massively Multiplayer Online Role-Playing Game
+script	A script is lines of source code stored in a file that will be executed by an interpreter.
+endian	See little-endian and big-endian.
+weblog	Also web log or blog
+flush	The act of emptying a buffer, often before it's full.
+checking for meaning	This is an alternative phrase for semantic analysis.
+broadcast markup language	Broadcast Markup Language (BML) is an XML-based standard developed by the Association of Radio Industries and Businesses (ARIB)
+elementary type	an Ada type that does not have components.
+riven	The sequel to Myst (see that entry).
+annotations	Annotea is a LEAD (Live Early Adoption and Demonstration) project enhancing the W3C collaboration environment with shared annotations.
+acpi	Advanced Configuration and Power Interface
+member	A member, or subscriber, is someone who is subscribed to a mailing list.
+curly brackets	{ and }
+baud	Bits per second.
+udp	User Datagram Protocol
+ruby ranges	A Range represents an interval.a set of values with a start and an end
+device driver	A piece of software which converts general commands to devices (such as a command to a printer to print a capital letter A in Arial at 12 point) into the specific commands required for that precise model
+switchless resellers	A carrier that does not own facilities or switches, but purchases minutes in high volumes from other carriers and resells those minutes.
+graphic interchange format	See GIF
+active rule markup language	Active Rule Markup Language (ARML) for Sharing a Rules among Active Information Management System
+if statement	a compound statement with conditional branching; it can have "elsif" tests and a final "else" part.
+mpaa	Motion Picture Association of America
+sap filters	See NetWare call filters.
+Glossary extracted starting with manual seeds, with PTM for the domain gam and language EN
+
+tdc	platform
+lcd	Acronym for "Liquid Crystal Display"
+camera	In most 3D games, the player's vantage point tends to change, often on-the-fly
+hrs	Hyper-Threading
+tile editor	A utility program used to create, view, and modify tiles.
+source	The code for a program before it is compiled into a binary executable.
+hp sim	SIP
+nintendo wi-fi connection	The Nintendo Wii and DS use Nintendo Wifi connection to connect to the internet
+vmedia	virtual partition
+cios	A custom version of an IOS, used by Homebrew apps (like Backup launchers).
+resolution	A term that describes the level of detail in a game's graphics
+bullet hell	Term used to describe difficult 2D shooters with waves of raining missiles.
+lamer	A person who is not simply ignorant, but makes no effort to correct his lack of knowledge.
+mop	Management Processor
+ios	Input/Output System
+pre-rendered graphics	Used in many early 3D adventures, the scenery is static and viewed from a fixed camera angle
+oe	Operating Environment DVD
+bit	The smallest unit that can carry information in a computer - this is a base 2 number, equaling either 0 or 1.
+dcoe	DCOE
+vse	vKVM
+fs	For Sale
+webes	WEBES
+icap	Integrated Lights Out (iLO)
+fps	First Person Shooter
+ai	This term is descriptive of how smart CPU-controlled characters behave in a game
+camp:	Technique often used in first-person shooters, the player will hide in a corner or hard-to-see spot, taking out opponents from there.
+fatality	In certain fighting games this is a gruesome act inflicted on your opponent after defeating him
+polygons	Small individual shapes that fit together to form complex 3-D models
+bmc	BIB
+mcoe	MOP
+combo	In many fighting games this is a string of moves that can be executed in rapid succession.
+tank	Character who can take a lot of damage
+wfc	See Nintendo Wi-Fi Connection.
+rom	Read Only Memory
+frame-rate	A term that describes the smoothness of motion in a game
+difficulty switches	Available on certain Atari consoles (like the 2600), these switches let you to set separate skill level for each player
+lagger	Someone with a slow connection, or who is late to react.
+revenue share	Business model in which chassis is supplied at a low price and content is leased free of charge, and net sales are shared in accordance with the operation of equipment.
+ci	concurrent upgrade
+cpu	Technically it stands for Central Processing Unit, but in the context of video games it's a general term used to describe the elements of the game controlled by the computer program and not by the player
+timer	A method of measuring the speed of the execution of instructions so that animation can be controlled.
+smart bomb	Popularized by Defender (1981), this weapon instantly destroys all enemies visible on the screen
+mp	InfoServer
+compiler	A program that turns higher programming language in a language that can be used by machines.
+opera	A web browser, like IE and Firefox
+ticap	TiCAP
+score	The cumulative number of points earned.
+cheats	Special codes that allow you bypass the normal limitations of a game
+binary	A term used to describe the base 2 number system when used with electronics
+lithium-ion	A commonly used battery for electronics
+mp	Integrity VM
+lan	Local Area Network
+special effect	Any unusual or special visual image or sound or music.
+openvms instance	Instant Capacity
+ssl	server blades
+server complex	computer interconnect
+demo	A trial version of a software or game usually released by the developers of the software for promotional purposes
+shoulder buttons	Found on the controllers of most modern systems, these are located on the side of the controller that faces away from the player
+compactflash	A type of flash memory module, that is one of the largest used in GBA and NDS flash kits
+full brick	A state where the Wii system menu can't be accessed at all
+emulator	A program that simulates other hardware, so that software for that hardware can be played on other hardware.
+ticap	iLO
+target drive	System Integrated Product
+patch	(General software term) Files distributed by the developer after a product is released that will change the software when they are installed
+usb loader	A backup launcher with the ability to load games from a USB device
+energy	A scale representing how close a player is to death
+cdsa	Secure Sockets Layer
+wi-fi	Short for "Wireless fidelity"
+boe	Baseboard Management Controller
+ntsc	National Television Standards Committee
+first-person	A point of view which lets you view the action through your character's eyes
+hp sim	HRS
+sip	local area OpenVMS Cluster system
+3ds	See Nintendo 3DS
+wbem providers for openvms	Web-Based Enterprises Services
+ft	For Trade
+firmware	Code that is written for a programmable chip
+starlet	The unofficial name for the ARM coprocessor located in the Hollywood, which is responsible for the peripheral access and security control.
+shmups	Short for "shoot 'em ups"
+opera	A brand of Web Browser
+cdsa	HSx device
+gui	Acronym for "Graphical User Interface"
+"tempting fate"	A generally unwise decision involving toying with an enemy in order to gain the opportunity to score bonus items or points
+mop	MP
+warranted support	Mission Critical Operating Environment
+patch	When a large program is released that has a bug, a patch is usually released instead of having the user download the whole program again
+oe dvd	operating system CD
+lan	Acronym for "Local Area Network"
+layered products	source drive
+bit-rot	The degradation of the digital information held on a chip
+boot2	The third stage of the boot process
+beta	Software that is still incomplete has the Beta status
+slow-down	When more objects are on the screen than a system can handle, the game tends to slow down, often to the detriment of the gameplay.
+ipm	instance
+nintendo 3ds	The latest handheld from Nintendo
+hack	modification of a file or a system
+stack	The memory of a program
+library	Generally given the extension *.a, a library is a compilation of source code that may be linked into a program.
+migration support	WBEM
+li-on	See Lithium-Ion.
+rapid-fire	Allows you to shoot fast and continuously by tapping the fire button, or in some games, simply holding it down.
+frag	A term associated with shooting something in a first-person shooters, usually a human-controlled opponent.
+"glory seeking"	Taking a particularly dangerous course of action for the opportunity to score bonus points
+c++	An object oriented language homebrew developers program in
+compile	To convert the instructions in source code to an executable format usable by the target platform.
+advanced server for openvms	Performance Data Collector
+gui	Graphical User Interface (basically means that there's more than text on the screen).
+gwlm	gWLM
+mplayer	A media Player that can load movies from Disc and USB.Multiplayer -- If there are two or more players, this is called multiplayer
+wbem providers for openvms	provisioning
+title metadata	A format used for storing metadata about a title and its installed contents, including which contents they consist of and their SHA1 hashes.
+bad rom/dump	A ROM (See ROM) that has been dumped (See Dump) incorrectly, which may cause it to produce errors during execution or may stop it from working as it should
+teabagging	A nasty practice where a player will crouch over a just-killed player’s body, appearing to dangle his private regions in the face of the dead player.
+mop server	MOP server
+hack	A game that "reuses" code from an older game
+flash memory	Storage space that is stored on a chip instead of a disk that must be read like a harddrive
+mp	MCOE
+isometric view	Instead of viewing the action directly from above or directly from the side, an isometric view allows you to look at the action from a diagonal, tilted overhead angle.
+eoe	EOE
+gaming	1
+download play	Allows two DS users to play multiplayer together
+sip	Systems Insight Manager
+dssi	disk server
+attract mode	Most present in early consoles like the Atari 2600, this mode causes a game not being played to cycle through colors on the screen to minimize the possibility of having images burn into the screen
+pwned	Owned, beaten, defeated
+nfo	NFO, an abbreviation of "info"
+anti-aliasing	A programming technique (or hardware capability) that automatically smoothes jaggy edges, and is often used for making low-resolution images look more attractive.
+rf cable	A low quality signal sent over coaxial cable (used for cable TV)
+good rom/dump	this term was originally used for ROMs that were validated by the GoodTools
+efi	Providers
+electronic gate	A device which takes electronic signals (inputs) and outputs a signal based on the status of its inputs
+usb	Acronym for "Universal Serial Bus"
+easter eggs	Undocumented objects or features hidden inside of video games
+sandbox	Describes an open-ended, go-anywhere style of play employed in games like Gran Theft Auto 3.
+virtual console	A service of Nintendo to allow you to download and play games from older consoles
+cdsa	complex
+cios	A customized/hacked version of an IOS.
+bandwidth	The frequency range of a particular transmission method
+resolution	The dimensions of an image, in pixels, typically expressed as the number of horizontal pixels across and the number of vertical pixels down
+subagent	An agent who sells subsidiary rights on behalf of a primary agent
+java	A powerful, Web-friendly programming language developed by Sun Microsystems that gives programmers substantial control over the look and function of the interface.
+agent	A publishing professional who shepherds books and authors through the publication process
+paid-on-delivery subscription	Term subscription, the price for each issue of which is collected when it is delivered or, in case an advance payment is made with order, the prorated balance is collected at time of delivery of each issue.
+net amount received	Usually the amount actually received by the publisher from sales of a work, sometimes also after taking out taxes and/or certain expenses (watch those contract definitions!).
+shutter speed	A shutter electronically controls the amount of time that light passing through a lens exposes onto the CCD
+editorial letter	The list of suggested changes an editor will ask an author to make prior to publication
+pre-empt	When a publisher really likes a project they may make an aggressive offer in order to pre-empt an auction (also known as "taking the book off the table")
+reliability	The degree to which a research sample result conforms with the result that would be obtained if a complete census were taken.
+hertz	A unit used to measure frequency
+slate	.  A small blackboard-like device recorded on-camera that gives program information (name, title, date, take numbers).
+video	The visual portion of television production.
+browser	An application used to view and navigate the World Wide Web and other Internet resources.
+bitstream	A collection of data, as in video or audio data compressed to a file or transmitted between devices.
+query letter	A letter describing your book, which will hopefully make an agent want to read more
+unit audit	An audited report attesting to the accuracy and validity of the number of units, plants or establishments a  ublication is serving.
+matte	An image mask used to define the transparent areas of each frame to be used in superimposing multiple clips
+season	Publishers organize their titles by season
+a/v mixer	See audio/video mixer.
+opaque	Regions of a superimposed image that are solid (not transparent), and therefore cover over the underlying image
+delivery date	When your manuscript is due
+intranet	A private network that uses Internet-related technologies to provide services within an organization.
+sponsorship	Payment for advertising related to an event or programme that supports the running of the event or the production of the programme
+antialias	To smooth out a jagged or stair-step appearance or motion between adjacent points so that it appears continuous.
+meta tag	A specific kind of HTML tag containing information not displayed to the user.
+territory	The countries in which rights are granted in a publishing contract.
+bug	Problem with computer software or hardware that causes it to malfunction or crash.
+bleed	1
+composite	See
+merchant account	A contracted agreement between a merchant or business owner selling a product and the credit card company responsible for collecting the sale proceeds
+hardware	Hardware comprises all of the tangible elements in a computer, as distinguished from the data it contains or operates on and the software that provides instructions for the hardware to accomplish tasks.
+anti-alias	Removing the jagged edges from letters or graphic elements such as titles and 3D objects.
+jitter	Small and rapid variations in a waveform due to mechanical disturbances, changes in the characteristics of components, supply voltages, imperfect synchronizing signals, circuits, etc.
+kb	A (or kilobyte) unit of information or of computer storage equal to one thousand bytes.
+arcs	Advance copies of a book for review
+new media	Online and digital ways of receiving information.
+publisher	The company that publishes your book.
+hiatus	A scheduled period of inactivity between advertising flights.
+voice over	The voice in the background heard as the narrator.
+nonexclusivity	When a publisher only has nonexclusive rights in a certain territory the author may then grant those rights to another publisher as well.
+original	The earliest generation in the archive
+frequency	A measurement of an analog signal's vibration, represented as cycles persecond or Hertz (Hz).
+conservation plan	A clear articulation of the decision-making process around a proposed course of action, the likely effects of such action and its justification.
+d series tape formats	A series of broadcast digital formats, designated D1, D2, etc
+sync	The portion of an encoded video signal that occurs during blanking and is used to synchronize the operation of cameras, monitors and other equipment
+nanosecond	A measurement of time
+emulation	A digital preservation strategy that uses current software to simulate original or obsolete computer environments
+scission	The process in which a chemical bond in a molecule is broken either by reaction with another molecule, such as water, or by the absorption of a high energy photon.
+go-tos	Programming instructions that tell a computer to skip from one line of code to another
+html	HyperText Markup Language (HTML) is a programing language for web pages
+php	Programming language used for creating software that is part of a web site.
+logotype or logo	Two or more letters or a whole word or distinctive setting of a name, cast as a single piece of metal; a standardized pattern as for the advertiser's name or trademark.
+video blog	 a blog the produces regular video content often around the same theme on a daily or weekly basis
+bdi	A measure of the strength of a brand's sales in a particular geographic area indexed to the national sales average.
+blurb	A quote from an author or reviewer in praise of a book
+cartridge	A case or container, inserted into a larger piece of equipment, which is easily exchanged, for example a game cartridge in a console, or an ink cartridge in a printer.
+lumen	1
+eform	An electronic form that is filled out by a user and sent over a network
+treatment	  A brief description of a film topic or idea.
+fiber optic	Fiber optic technology uses glass (or plastic) threads (fibers) to transmit data
+noninterlaced	The process of scanning whereby every line in the picture is scanned during the vertical sweep.
+genre fiction	A blanket term that refers to books with certain familiar settings and plot conventions
+quadraplex	See 2-inch Quad/Quadraplex.
+mass market paperback	Rack sized paperback
+cohesive force	The force that holds a material together.
+uxga	Resolution of a computer generated image
+digital	A signal which consists of a series of discreet values, as opposed to an analogue signal, which is made up of a continuous information stream.
+duration	A length of time
+narrative nonfiction	Nonfiction that illuminates through story
+relative humidity	The amount of water in the air relative to the maximum amount of water that the air can hold at a given temperature.
+ilink	See
+reprint	1
+display device	A display device is a presentation device for visual information
+glitch	A form of low frequency interference, appearing as a narrow horizontal bar moving vertically across the picture.
+aspect ratio	Aspect ratio refers to the relationship or ratio between the width of the image and the height of the image
+y-cable	A cable that splits the monitor signal so that it will work simultaneously with both a monitor and a LCD panel.
+bmp	The standard Windows bitmap still image file format
+dc	Direct Current
+oe	The unit of magnetic field strength
+source code	Program instructions in their original form
+encryption	A procedure that renders the contents of a message or file unintelligible to anyone not authorized to read it
+cross-fade	  See
+micron	A unit of measure for the thickness of magnetic tape
+hydrolysis	The chemical process in which scission of a chemical bond occurs via reaction with water
+dhtml	A new version of HTML, developed by Netscape and expanded by the W3C (the World Wide Web Consortium)
+denotation	A description of a media text indicating its common sense, obvious meaning.
+video art	The term 'video art' is understood to refer to expressions of visual art in which video is used as a medium, both in the production process and the presentation.
+playback hardware	Equipment needed to play back video
+application programing interface	 An API is a documented interface that allows one software application to to interact with another application
+foldover	Tape that has folded over resulting in the oxide surface facing away from the heads.
+perfect binding	Method that produces flat opening, as in telephone directories; distinguished from side (saddle) stitching.
+hz	Hertz
+code	Instructions written in a language a computer can understand and execute
+net surfing	Browsing or exploring a network or the World Wide Web to find places of interest, usually without a specific goal in mind
+transcode	The process of converting a media file or object from one format to another
+longitudinal recording	A recording format in which a slow or fast moving tape is passed by a stationary magnetic record or play (write or read) head
+frame rate	Playback speed as determined in frames per second
+crawl	To scroll a line of title text sideways, left or right across the screen
+facebook	 a social utility that connects people with friends and others who work, study and live around them
+pet	Abbreviation for Polyethylene Terephthalate.
+mp3	An audio file format, especially popular for downloading songs from the web and for storing music in and portable music players
+operating system	The base-level software on which applications like word processors or Internet browsers run
+quintile	The division of the audience or sample into five equal groups ranging from heaviest to lightest amount of exposure to any medium.
+compressor	Program by which files are
+decoder	A device used to recover the component signals from a composite (encoded) source
+database	A collection of information concerning a certain topic organized in a logical fashion for easy access and speedy retrieval.
+html	The code used to generate hypertext documents on the World Wide Web through the use of tags and attributes
+crosslinking	A chemical reaction of polymers
+internet service provider	A business that delivers access to the Internet, usually for a monthly fee
+publisher‚äôs statement	Certified statement of circulation and distribution data for a six-month period made by a publisher and issued unaudited, but subject to audit.
+pot	  See potentiometer.
+field	The building blocks that create cataloging records
+2-3 / 3-2 pulldown	Process used to convert material from film to interlaced NTSC display rates, from 24 to 30 frames per second
+cav	The disc speed remains constant while the head-to-disc speed changes
+rhetorical questions	the devil's preferred method of beginning query letters
+ccd	Charged Coupled Device
+emoticon	A cute sideways face created by using special characters on the keyboard
+rebate	1
+path	The hierarchical description of where a directory, folder, or file is located on your computer or on a network 
+unpaid distribution	A term used in the ABC report; reported by averages for the six-month period covered by that report
+archival storage	Storage conditions specifically designed to extend or maximize the lifetime of stored media
+cpm	Cost per 1,000 impressions
+passivate	A chemical process which forms a protective coating on a metal
+connotation	A description of value, meaning or ideology associated with a media text.
+ntsc	National Television Standards Committee created the first international television system for use in the U.S
+gain	Overall audio output volume
+video preservation	An archival system that ensures the survival in perpetuity of the program content according to the highest technical standards reasonably available
+breakdown	The division of circulation as to types of business or industry reached, the functions or titles of recipients, and/or their demographic characteristics or geographical location.
+hit	A single user accessing a single file from a web server
+telemarketing	Using the telephone to promote and sell goods and services.
+ip address	A string of four numbers separated by periods (such as 111.22.3.444) used to represent a computer on the Internet
+strip	A program scheduled at the same time each day, typically Monday-Friday.
+share	The percent of an audience tuned to a particular program at a given time.
+social media monitoring	A process of monitoring and responding to mentions related to a business that occur in social media.
+removals	Names of individuals or companies removed from the mailing list of a publication.
+domain name system	A database system which looks up host IP addresses based upon domain names
+rear projection	Projecting an image through a translucent screen material for viewing from the opposite side.
+advertising	Making something known generally or in public, especially in order to sell products or services.
+vbr	Acronym for Variable Bit Rate
+pal	Phase Alternation by Line
+network	An arrangement of devices such as servers, computers, and printers joined by transmission paths by which programs make requests of one another
+first pass pages	Once the manuscript is copyedited, the pages are then type-set and designed to look like how they'll look when the book is bound
+alpha channel	Extra information stored with an image to define  transparent areas used for keying and superimpositions
+open source	A technique for writing software in which original authors make source code freely available for modification and improvement by any programmer who wishes to collaborate on the project
+mirroring	Duplicating a file, typically a Web site, in another location so as to distribute access to or safeguard the original work.
+snow	1
+rgb	Acronym for red, green & blue
+transparent	Regions of a superimposed image that are invisible, and therefore show through to the underlying image, as used for logo overlays and blue-screen effects
+object-oriented	A style of computer programming that emphasizes writing chunks of code in a generic and encapsulated way in order to reuse these code "objects" for future projects.
+hyperlink	A highlighted word or picture within a hypertext document that when clicked takes you to another place within the document or to another document altogether.
+scroll	Graphics that roll from the bottom to the top of the screen (e.g., end credits).
+commission	The amount an agent receives for their services
+phono connector	See
+positive	1
+link	A highlighted word or picture within a hypertext document that when clicked bring you to another place within the document or to another document altogether
+white balance	White balance is the camera setting that adjusts for lighting in order to make white objects appear white in photos
+non-qualified distribution	That circulation which doesn't conform to the field served and definition of recipient qualification.
+bit	Shorthand for binary digit, which has two optional values "0" or "1." Eight bits means 8 binary digits
+internet explorer	A free web browser application from Microsoft.
+cookie	Information stored on a user's computer by a website so preferences or details are remembered for future visits to that site.
+thermal	An effect related to changes in temperature
+partial	A partial manuscript
+green screen	A common special effects procedure in which a subject is photographed in front of a uniformly illuminated blue or green background
+world wide web	The Web (WWW) is a constellation of servers that supports a specific form of documents coded in HTML, a format that allows users to navigate via links to other documents in different servers
+genre	A category of media texts characterized by a particular style, form or content.
+retensioning	The process where a tape is unspooled onto a take-up reel and then rewound at a controlled tension and speed
+fill light	  A third light used in studio production designed to fill in and eliminate shadow areas caused by the use of a key light.
+carrier	The physical medium on which the video/data is recorded.
+iso	The organization, founded in 1947 and made up of representatives from national standards bodies, that produces worldwide industrial and commercial standards.
+domain name	The official name of a computer connected to the Internet
+british commonwealth	A huge list of countries, territories, and random islands, many of which you may not have ever known existed, and which were once apparently colonized by Mother Britain
+bound galleys	(see "galleys")
+frames	The individual video images that make up a moving sequence
+pan	  See balance.
+roll	To scroll lines of title text vertically up or down the screen
+two-color process	Reproduction process from two plates printed in contrasting colors giving a fullcolor effect.
+rh	Abbreviation for relative humidity.
+spotmeter	  A device that measures the intensity of reflected light, like on a lighted set.
+congestion	A state occurring in a part of a network when the message traffic is so heavy that it slows down network response time.
+indemnity	In a publishing contract a publisher will typically require the author to indemnify the publisher against losses sustained due to a breach in the author's warranty (see also "warranty")
+mb	A megabyte is a unit of information or computer storage equal to one million bytes.
+editorial	1
+gain	Gain is a system's mean ratio of signal output to signal input.
+cdi	A measurement of a brand's sales potential using sales of all brands within a category in a specific market indexed to national sales average.
+dolly	Any apparatus upon which a camera can be mounted, which can be moved around smoothly.
+shutter speed	The shutter electronically the amount of time that light passing through a lens exposes onto the CCD
+shuttle	To move rapidly through a program, as with scan forward or scan reverse VCR controls
+video sculpture	An installation consisting of one or more monitors, its form reminiscent of a 'traditional' sculpture
+registration	The laying down of the rights of ownership, the identity and the condition of an object or group of objects
+video installation: multichannel	An installation in which at least one of the media used is video.
+pedestal	1
+royalty period	The accounting schedule for royalties
+book plates	Stickers that go in the front of a book and often allow the owner of the book to sign their name
+contrast	The difference between the brightest and darkest parts of the picture.
+buyer	The person at a bookstore or library who is responsible for ordering books.
+leadroom	 The area between a subject shot in profile and the edge of the screen they are facing.
+online	Storage and retrieval system where assets are immediately available for use or directly connected to a network or computer through fixed disk storage.
+complexity	The use of a variety of camera angles and editing to enhance the intensity of action in a scene.
+copyeditor	A grammar and spelling ninja who is responsible for making sure books do not have typos, geographical errors, or dangling modifiers
+pc	1
+download	To transfer data from a larger "host" system to a smaller "client" system's hard drive or other local storage device
+software-for-hardware	A type of emulation that simulates a program's native hardware environment on a machine that it was never intended to run on
+decibel	Logarithmic measurement of signal strength
+direct mail	Advertising or marketing material posted to people at home or work.
+netnews	The content of USENET.
+response rate	In sample research, a calculation of the percentage of initially designated sample units providing a response in a given survey
+gross rating points	The sum of individual ratings in a media plan.
+hacker	computer programmer of outstanding skills
+trade paperback	Mid-size paperback.
+media literacy	The process of understanding and using the mass media in an assertive and non-passive way
+broadband	High-speed data transmission or a transmission medium in which a wide range or band of frequencies is available to transmit data, allowing more information to be transmitted in a given time frame
+bit mapped graphics	The type of graphic that is defined and addressed on a bit-by-bit basis which makes all points on the screen display directly accessible.
+movie file	The file created by combining the audio, video, and still images contained in your project
+compression	The term used to describe the method of eliminating redundant information in each frame of digital video
+copy protection	A software lock placed on a computer program by its developer to thwart piracy
+backing	Backing film layer that supports the magnetic layer in a magnetic tape
+loop	  a brief, repeatable audio segment (usually one or two measures long) used as a building block of a song created using music-creation software.  Such a song might include a drum loop, a bass loop, a keyboard loop, and a guitar loop, all of which are combined and repeated to create a song.
+dimmer switch	A control used to gradually increase and decrease the electricity sent to a lighting fixture, thereby affecting the amount of light it gives.
+business publication	A business publication is one dealing with management, manufacturing, sales or operation of industries or businesses, or some specific industry, occupation or professions, and which is published to interest and assist persons actively engaged in the field it covers.
+downstage	Toward the camera.
+read receipts	An optional email feature that notifies you when a recipient has opened the email message you sent him
+data rate	The speed at which data is transferred, as in bytes per second
+reinterpretation	The most radical preservation strategy is to reinterpret the work each time it is re-created
+stinger	It's a new category of soundtracks
+hypertext transfer protocol	The protocol used by the World Wide Web to transfer HTML files.
+literary fiction	Fiction that is characterized by a plot that is typically beneath the surface and which is usually characterized by a unique and recognizable prose style.
+bookmark	A routine that allows you to save a reference to a site or page that you have already visited
+royalties	The amount an author receives on every net copy sold of their book (see "net sales")
+rom	See ROM image.
+preservation	The total of measures and actions aimed at consolidating the condition of an object, counteracting detected decay or preventing further decay that can be expected with certainty to occur within the foreseeable future.
+macro lens	A lens used for videography when the camera-to-object distance is less than 2 feet
+residuals	Fees paid to performers and other creative talent for subsequent exposures of their filmed or video programs or commercials.
+coverage area	The specific geography where a media vehicle has its coverage
+hygroscopic	Said of a material which has a tendency to absorb water
+gamma	A display setting related to the brightness of the middle tones of an image
+protocol	A specified, agreed-upon format that determines how computers send and receive data to and from each other on a network
+production values	Describes the quality of a media production—which is generally proportional to the money and technology expended on it.
+credit	Title text that identifies the people who contributed to a production
+psychographic	Describes consumers on the basis of some psychological trait, characteristics or life style.
+real audio/video	A product that works in conjunction with some Internet browsers to enable the user to listen or view live or pre-recorded content in real time.
+stress	Force per unit area, such as pounds per square inch (psi)
+remaster	See migrate.
+spam	Unwanted, unsolicited emails frequently used to sell.
+decode	See
+trade publication	Serving a specifically definable industrial, business, service or professional audience.
+construct or construction	As a verb, the process by which a media text is shaped and given meaning
+fps	Frames per second
+exclusivity	1
+micro site	Small website with a focused message
+unearned	When an advance has not "earned out" the book is said to be "unearned."
+remote login	Operating a remote computer over a network as if it were a local computer
+transfer	See migrate.
+chat	A text-based interface allowing multiple users to write messages and reply to each other in real time
+unpaid copies	Circulation or distribution that is either entirely free or at a price inadequate to qualify them as paid in accordance with established rules.
+buy-out music	  Production music purchased for a one-time fee, as opposed to a lease or per-use fee schedule.  (see also production music.)
+mechanical	Assembly (paste-up) of the elements of an ad on layout paper or board to indicate position and size from reproduction.
+long form	Any television commercial longer than two minutes
+import	To bring media elements into your current working space
+software	Computer programs held in the storage of a computer for some application
+galleys	Advance copies of a book for review
+quicktime	A proprietary digital video format easily encapsulated and downloaded over the internet
+query	A general question posed to a person or group over the Internet.Internet users are generally so helpful that if one asks an appropriate query to the correct discussion group, one will often receive many useful responses
+option	A provision in a contract that typically gives the publisher an exclusive period of time to consider and offer on the author's next work
+out of print	When a book is no longer being actively sold by a publisher it is said to be out of print, and often an author will be able to "revert" the rights
+xga	A standard introduced by IBM that includes VGA as well as resolutions up to 1024 pixels by 768 interlaced lines.
+vehicle	Anything capable of exposing advertising to customers.
+desktop	1
+host	A computer that allows users to communicate with other host computers on a network.
+data compression	A techique that provides for the transmission or storage, without noticeable information loss, of fewer data bits than were originally used when the data was created.
+term of license	Sometimes contracts are for a set number of years
+lux   	A measurement of light
+flow through	In some contracts when there is subrights income (see "subrights") the author's share of the revenue is allowed to "flow through" directly to the author without being held by the publisher until the end of a royalty period.
+java	An object oriented programming language created by Sun Microsystems
+ieee 1394	See
+auction	When multiple publishing houses are interested in acquiring a project they will sometimes bid against each other in an auction
+character generator	Electronic device which produces graphics and characters for creating video titles.
+i.f.c.	Inside front cover (also called second cover).
+saddle stitching	Stapling pages, sections, or signatures together with wire from the outside fold along the fold to the center spread; distinguished from side stitching.
+cyclorama	  Large, seamless cloth or curtains that are hung on tracks to provide backgrounds for studio sets.
+viral marketing	A marketing strategy that encourages the audience to pass on the marketing material themselves
+server	A computer program that provides services to other computer programs by responding to requests and supplying or accepting data
+ftp	A method for uploading files to and downloading files from Web sites and other computers connected to the Internet
+hardcover	Books that are bound in cardboard or some other sturdy fashion, possibly featuring a dust jacket, and usually retailing at a higher price than paperbacks.
+record	The basic unit of a database
+critical	A reflective position on the meaning, biases or value messages of a text
+attenuate	To reduce audio strength or volume.
+analog	A continuously varying electronic signal
+headroom	  the space between the top of a person's head, and the top of the video screen.
+props	  Objects used in the scene either by actors or as part of the set design
+control number	A unique number assigned to a specific element of a work.
+twitter	A platform that allows users to share 140-character-long messages publicly
+off-site storage	Facilities located at a distance from the organization's primary location that are used for storing collection materials
+ega	EGA is an image which displays 640 pixels by 350 lines with 16 colors from a palette of 64 colors.
+throw distance	Length of the projection beam required for a projector to produce an image of a desired size.
+usb	A high-speed serial communication method commonly used to connect digital cameras and other devices to a computer.
+hypertext	A computer-based text retrieval system that enables a user to access particular locations in Web pages or other electronic documents by clicking on links within specific Web pages or documents.
+client/server	An arrangement in which two or more computers work together
+resolution	sharpness of an image on film, paper, computer screen, disk, tape or other medium.
+byte	Unit of computer memory consisting of eight bits.
+ieee 1394	A new port on the computer capable of transferring large amounts of data
+boolean	Based on the case-sensitive operators AND, OR, and NOT - serves as the basis of machine intelligence and, hence, computer searches.
+memory	the part of the computer which stores information for immediate access
+partition	On a hard drive, logical segments that present a large disk to the OS as separate physical drives
+natural language processing	Computer understanding, analysis, manipulation and/or generation of natural (human) language.

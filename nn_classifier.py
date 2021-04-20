@@ -72,6 +72,7 @@ class SingleLinear(nn.Module):
         # self.batch_norms = nn.ModuleList(
         #     [nn.BatchNorm1d(input_dim) for input_dim in projection_inputs]
         # )
+
     def init_weights(self):
         initrange = 0.5
         self.emb_layer.weight.data.uniform_(-initrange, initrange)
