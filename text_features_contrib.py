@@ -26,7 +26,10 @@ class DimensionOperations:
 
         words_list = []
         emb_list = []
+        words_to_ignore = []
         for word in split_words:
+            if word in words_to_ignore:
+                continue
             emb = self.emb_all.get(word)
             if emb is not None:
                 emb_list.append(emb)
@@ -38,6 +41,7 @@ class DimensionOperations:
         mean_emb = np.mean(np.array(emb_list), axis=0)
 
         return mean_emb, emb_list, words_list
+
 
     def get_important_dimensions_for_selected_class(self, mul_weights, class_idx):
         # mul_weights = torch.softmax(mul_weights, dim=-1)

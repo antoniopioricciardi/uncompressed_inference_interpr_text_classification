@@ -80,9 +80,29 @@ feat_contribs = FeaturesContributions(model, N_HIDDEN_LAYERS)
 
 
 sentence = 'i played some rock with my guitar, then played some pink floyd'
-
 dim_op = DimensionOperations(emb_all, embeddings, idx2word, word2idx, EMB_DIM, labels)
 mean_emb, emb_list, words_list = dim_op.get_mean_embedding(sentence)
+
+preds = {lab: 0 for lab in labels}
+preds_scores = []  # contains a list of scores for every class, for every word
+uncompressed_inf_list = []
+for idx, emb in enumerate(emb_list):
+    mul_weights = feat_contribs.get_features_contribution_matrix(emb)
+    uncompressed_inf_list.append(mul_weights)
+
+    data = torch.tensor(emb).float().to(model.device)
+    pred = model.forward(data)
+    preds_scores.append(pred)
+    pred = torch.argmax(pred)
+    preds[labels[pred]] += 1
+
+print(preds)
+print(uncompressed_inf_list[0])
+maxkey = max(preds, key=preds.get)
+print(maxkey)
+exit(3)
+
+
 
 mul_weights = feat_contribs.get_features_contribution_matrix(mean_emb)
 

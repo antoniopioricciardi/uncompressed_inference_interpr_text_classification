@@ -190,6 +190,7 @@ class DeepLinear(nn.Module):
         hidden_outputs = [input_dim // 2 ** i for i in range(1, hidden_layers_n)] + [target_dim]
 
         self.hidden_layers = nn.ModuleList(
+            #[nn.Linear(1000, 1024), nn.Linear(1024, 20)]
             [nn.Linear(input_dim, output_dim)
              for input_dim, output_dim in zip(hidden_inputs, hidden_outputs)]
         )
@@ -207,6 +208,7 @@ class DeepLinear(nn.Module):
         # self.batch_norm_mid = nn.BatchNorm1d(input_dim // 2)
 
         self.loss = torch.nn.CrossEntropyLoss()
+        # self.loss = torch.nn.MSELoss(reduce = True, size_average=True)
         self.optimizer = torch.optim.Adam(self.parameters(), lr=0.001)
 
         self.device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
