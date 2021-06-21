@@ -139,8 +139,9 @@ class DoubleLinear(nn.Module):
         self.batch_norm_mid = nn.BatchNorm1d(input_dim // 2)
 
 
-        self.loss = torch.nn.CrossEntropyLoss()
-        self.optimizer = torch.optim.Adam(self.parameters(), lr=0.001)
+        # self.loss = torch.nn.CrossEntropyLoss()
+        self.loss = torch.nn.MSELoss()
+        self.optimizer = torch.optim.Adam(self.parameters(), lr=lr)
 
         self.device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
         self.to(self.device)
@@ -209,7 +210,7 @@ class DeepLinear(nn.Module):
 
         self.loss = torch.nn.CrossEntropyLoss()
         # self.loss = torch.nn.MSELoss(reduce = True, size_average=True)
-        self.optimizer = torch.optim.Adam(self.parameters(), lr=0.001)
+        self.optimizer = torch.optim.Adam(self.parameters(), lr=lr)
 
         self.device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
         self.to(self.device)
@@ -234,10 +235,13 @@ class DeepLinear(nn.Module):
 
     def forward(self, data: torch.Tensor) -> torch.Tensor:
         first = True
-        for hidden_layer in self.hidden_layers:
+        for idx, hidden_layer in enumerate(self.hidden_layers):
             data = self.dropout(data)
             data = hidden_layer(data)
+            #if idx < len(self.hidden_layers) -1:
             data = F.relu(data)
+            #else:
+            #    data = torch.tanh(data)
             #if first:
             #    first = False
 

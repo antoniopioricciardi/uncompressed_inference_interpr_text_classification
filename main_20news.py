@@ -33,6 +33,11 @@ def parse_dataset_20news(dataset_list, labels_list):
 raw_dataset_path = 'datasets/glossboot_dataset'
 dest_path = 'test_data'
 EMB_PATH = 'embeddings/SPINE_word2vec.txt'
+#EMB_PATH = 'embeddings/wiki-news-fasttext-sparse_100k'
+# EMB_PATH = 'embeddings/wiki-news-300d-1M.vec'
+# EMB_PATH = 'embeddings/glove_sparse_100k.vec'
+# EMB_PATH = 'embeddings/SPINE_word2vec.txt'
+
 #EMB_PATH = 'embeddings/glove_original_15k_300d_train.txt'
 
 MODEL_PATH = 'models/model.pth'
@@ -41,17 +46,18 @@ if not os.path.exists('models'):
     os.mkdir('models')
 
 ''' DEFINING MODEL PARAMETERS '''
-BATCH_SIZE = 64
-EMB_DIM = 1000
+BATCH_SIZE = 64# 128
+EMB_DIM = 1000 # 1000
 N_HIDDEN_LAYERS = 2
-N_EPOCHS = 120
+N_EPOCHS = 200
 
 newsgroups_train = fetch_20newsgroups(subset='train', remove=('headers', 'footers', 'quotes'))
 newsgroups_test = fetch_20newsgroups(subset='test', remove=('headers', 'footers', 'quotes'))
 
 # pprint(newsgroups_train.data[0])
 # pprint(len(newsgroups_train.data))
-# pprint(newsgroups_train.target_names)
+pprint(newsgroups_train.target_names)
+pprint(len(newsgroups_train.data))
 
 #### LOAD AND PARSE EMBEDDINGS AND DATA ####
 
@@ -67,9 +73,12 @@ for idx, word in enumerate(emb_all.keys()):
     idx2word[idx] = word
     word2idx[word] = idx
 
+# TODO: labels = newsgroups_train.target_names
 labels = list(set(newsgroups_train.target))
 # PARSE RAW DATA AND CREATE DATASET
 train_data, _ = parse_dataset_20news(newsgroups_train.data, newsgroups_train.target)
+
+
 test_data, _ = parse_dataset_20news(newsgroups_test.data, newsgroups_test.target)
 words_l = train_data[0][0]
 
@@ -78,12 +87,12 @@ preproc_dataset_test = create_train_dataset(test_data, labels)
 
 #### TRAINING AND TESTING CODE ####
 # If we're testing, just load the model; otherwise train and save model parameters.
-TESTING = True
+TESTING = False
 train_dataset = generate_batches(preproc_dataset_train, BATCH_SIZE)
 test_dataset = generate_batches(preproc_dataset_test, BATCH_SIZE)
 
 ############################ MODEL ####################
-model = DeepLinear(EMB_DIM, len(labels), N_HIDDEN_LAYERS, 0.1, None)
+model = DeepLinear(EMB_DIM, len(labels), N_HIDDEN_LAYERS, 0.01, None, lr=0.001)
 
 if TESTING:
     # model2 is trained with leave-out test set, 83% acc
@@ -98,7 +107,7 @@ feat_contribs = FeaturesContributions(model, N_HIDDEN_LAYERS)
 
 
 sentence = 'i played some rock with my guitar, then played some pink floyd'
-sentence = newsgroups_test.data[42]
+sentence = newsgroups_test.data[551]
 dim_op = DimensionOperations(emb_all, embeddings, idx2word, word2idx, EMB_DIM, labels)
 mean_emb, emb_list, words_list = dim_op.get_mean_embedding(sentence)
 
@@ -109,8 +118,8 @@ data = torch.tensor(mean_emb).float().to(model.device)
 preds = model.forward(data)
 pred = torch.argmax(preds)
 label = labels[pred]
-print('Prediction for text:', sentence, '\n', newsgroups_train.target_names[label])  # , ':', preds.cpu().detach()[pred])
-print('ground truth:', newsgroups_train.target_names[newsgroups_test.target[42]])
+print('Prediction for text:', sentence, '\n', 'Prediction:', newsgroups_train.target_names[label])  # , ':', preds.cpu().detach()[pred])
+print('ground truth:', newsgroups_train.target_names[newsgroups_test.target[551]])
 print(preds)
 
 dim_op.get_important_dimensions_for_selected_class(mul_weights, pred)

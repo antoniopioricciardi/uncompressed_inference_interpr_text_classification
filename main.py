@@ -20,6 +20,8 @@ raw_dataset_path = 'datasets/glossboot_dataset'
 dest_path = 'test_data'
 EMB_PATH = 'embeddings/SPINE_word2vec.txt'
 #EMB_PATH = 'embeddings/glove_original_15k_300d_train.txt'
+#EMB_PATH = 'embeddings/wiki-news-fasttext-sparse_100k.txt'
+#EMB_PATH = 'embeddings/wiki-news-300d-1M.vec'
 
 MODEL_PATH = 'models/model.pth'
 
@@ -59,14 +61,14 @@ random.shuffle(preproc_dataset)  # randomly shuffle train dataset
 
 #### TRAINING AND TESTING CODE ####
 # If we're testing, just load the model; otherwise train and save model parameters.
-TESTING = True
+TESTING = False
 train_dataset = generate_batches(preproc_dataset, BATCH_SIZE)
 test_dataset = []
 for i in range(4):  # test set contains 4 batches
     test_dataset.append(train_dataset.pop())
 
 ############################ MODEL ####################
-model = DeepLinear(EMB_DIM, len(labels), N_HIDDEN_LAYERS, 0.01, None)
+model = DeepLinear(EMB_DIM, len(labels), N_HIDDEN_LAYERS, 0.01, None, lr=0.01)
 
 if TESTING:
     # model2 is trained with leave-out test set, 83% acc

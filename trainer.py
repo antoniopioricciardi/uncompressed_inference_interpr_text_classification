@@ -25,10 +25,14 @@ class Trainer:
             for batch in self.train_dataset:
                 self.model.zero_grad()
                 tot_train_len += len(batch)
-                data = torch.from_numpy(np.array([np.array(el[0]) for el in batch])).to(self.model.device)
-                labels = torch.tensor([el[1] for el in batch]).to(self.model.device)
-                pred = self.model(data.float())
+                data = torch.from_numpy(np.array([np.array(el[0], dtype=np.float32) for el in batch])).to(self.model.device)
+                labels = torch.tensor([el[1] for el in batch], dtype=torch.float32).to(self.model.device)
+                print(labels)
+                pred = self.model(data)
+                print(pred)
                 # print(pred.argmax(1), '-', labels)
+                pred = pred.argmax(1)
+                print(pred)
 
                 loss = self.model.loss(pred, labels)
                 train_loss += loss
